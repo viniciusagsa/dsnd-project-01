@@ -1,349 +1,349 @@
-fdc_id,description,food_category,"Calcium, Ca","Carbohydrate, by difference","Copper, Cu","Iron, Fe","Magnesium, Mg","Manganese, Mn","Phosphorus, P","Potassium, K",Protein,Total lipid (fat),Water,"Zinc, Zn",protein_value,carbohydrate_value,fat_value,calculated_energy
-321358,"Hummus, commercial",Legumes and Legume Products,41.0,14.9,0.348,2.41,71.1,1.06,166.0,289.0,7.35,17.1,58.7,1.38,3.47,4.07,8.37,229.27450000000002
-321359,"Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D",Dairy and Egg Products,126.0,4.91,0.001,0.0,12.0,0.001,103.0,159.0,3.35,1.9,89.1,0.43,4.27,3.87,8.79,50.0072
-321360,"Tomatoes, grape, raw",Vegetables and Vegetable Products,11.0,5.51,0.058,0.33,11.9,0.121,28.0,260.0,0.83,0.63,92.5,0.2,2.44,3.57,8.37,26.969
-321611,"Beans, snap, green, canned, regular pack, drained solids",Vegetables and Vegetable Products,36.0,4.11,0.041,0.78,12.7,0.176,23.0,97.0,1.04,0.39,93.6,0.19,2.44,3.57,8.37,20.4746
-321900,"Broccoli, raw",Vegetables and Vegetable Products,46.0,6.29,0.059,0.69,21.0,0.197,67.0,303.0,2.57,0.34,90.0,0.42,2.44,3.57,8.37,31.571899999999996
-322228,"Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D",Dairy and Egg Products,126.0,5.19,0.001,0.0,12.0,0.0,103.0,159.0,3.38,0.95,89.7,0.43,4.27,3.87,8.79,42.8684
-322559,"Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)",Dairy and Egg Products,132.0,4.89,0.002,0.0,12.5,0.001,107.0,167.0,3.43,0.08,90.8,0.45,4.27,3.87,8.79,34.2736
-322892,"Milk, whole, 3.25% milkfat, with added vitamin D",Dairy and Egg Products,123.0,4.67,0.001,0.0,11.9,0.0,101.0,150.0,3.28,3.2,88.1,0.41,4.27,3.87,8.79,60.2065
-323121,"Frankfurter, beef, unheated",Sausages and Luncheon Meats,15.0,2.89,0.046,1.14,11.5,0.031,128.0,343.0,11.7,28.0,54.6,2.06,4.27,3.87,9.02,313.7033
-323294,"Nuts, almonds, dry roasted, with salt added",Nut and Seed Products,273.0,16.2,0.87,3.17,258.0,2.02,456.0,684.0,20.4,57.8,2.2,2.8,3.47,4.07,8.37,620.5079999999999
-323444,"Cheese, ricotta, whole milk",Dairy and Egg Products,224.0,6.86,0.0,0.1,19.7,0.0,162.0,230.0,7.81,11.0,72.9,0.56,4.27,3.87,8.79,156.58689999999999
-323505,"Kale, raw",Vegetables and Vegetable Products,254.0,4.42,0.053,1.6,32.7,0.92,55.0,348.0,2.92,1.49,89.6,0.39,2.44,3.57,8.37,35.3755
-323604,"Egg, whole, raw, frozen, pasteurized",Dairy and Egg Products,55.0,0.91,0.0,1.77,11.2,0.0,189.0,117.0,12.3,10.3,75.4,1.2,4.36,3.68,9.02,149.8828
-323697,"Egg, white, raw, frozen, pasteurized",Dairy and Egg Products,9.0,0.74,0.0,0.18,10.6,0.0,0.0,130.0,10.1,0.16,88.3,0.02,4.36,3.68,9.02,48.2024
-323793,"Egg, white, dried",Dairy and Egg Products,104.0,6.02,0.0,0.0,87.6,0.0,107.0,959.0,79.9,0.65,7.98,0.43,4.36,3.68,9.02,376.3806
-324038,"Sauce, salsa, ready-to-serve","Soups, Sauces, and Gravies",28.0,6.74,0.065,0.42,15.2,0.11,32.0,258.0,1.44,0.19,89.3,0.2,2.44,3.57,8.87,29.2607
-324157,"Sausage, breakfast sausage, beef, pre-cooked, unprepared",Sausages and Luncheon Meats,35.0,3.37,0.075,1.55,19.7,0.174,124.0,263.0,13.3,28.7,51.7,2.14,4.27,3.87,9.02,328.70689999999996
-324317,"Onion rings, breaded, par fried, frozen, prepared, heated in oven",Vegetables and Vegetable Products,28.0,36.3,0.081,1.14,20.4,0.435,75.0,135.0,4.52,14.4,43.4,0.59,3.7,4.0,8.8,288.644
-324653,"Pickles, cucumber, dill or kosher dill",Vegetables and Vegetable Products,54.0,1.99,0.026,0.23,7.1,0.056,16.0,112.0,0.48,0.43,94.7,0.11,2.44,3.57,8.37,11.8746
-324860,"Peanut butter, smooth style, with salt",Legumes and Legume Products,49.0,22.3,0.42,1.73,169.0,1.68,339.0,564.0,22.5,51.1,1.18,2.54,3.47,4.07,8.37,596.543
-325036,"Cheese, parmesan, grated",Dairy and Egg Products,884.0,12.4,0.04,0.45,34.9,0.066,634.0,184.0,29.6,28.0,22.8,4.33,4.27,3.87,8.79,420.5
-325198,"Cheese, pasteurized process, American, vitamin D fortified",Dairy and Egg Products,866.0,5.27,0.046,0.48,25.1,0.038,540.0,149.0,18.0,30.6,39.6,2.42,4.27,3.87,8.79,366.22889999999995
-325287,"Grapefruit juice, white, canned or bottled, unsweetened",Fruits and Fruit Juices,16.0,7.59,0.032,0.07,9.6,0.02,17.0,141.0,0.55,0.7,90.9,0.04,3.36,3.92,8.37,37.4598
-325430,"Peaches, yellow, raw",Fruits and Fruit Juices,4.0,10.1,0.078,0.34,8.0,0.026,22.0,122.0,0.91,0.27,88.3,0.23,3.36,3.6,8.37,41.6775
-325524,"Seeds, sunflower seed kernels, dry roasted, with salt added",Nut and Seed Products,78.0,17.1,1.83,5.21,358.0,2.89,750.0,689.0,21.0,56.1,1.5,6.0,3.47,4.07,8.37,612.024
-325658,"Sausage, Italian, pork, mild, cooked, pan-fried",Sausages and Luncheon Meats,12.0,2.15,0.074,1.29,18.6,0.033,145.0,310.0,18.2,26.2,50.9,2.41,4.27,3.87,9.02,322.35849999999994
-325871,"Bread, white, commercially prepared",Baked Products,211.0,49.2,0.124,3.36,26.9,0.632,113.0,117.0,9.43,3.59,35.7,0.88,3.9,4.1,8.7,269.73
-325992,"Sausage, turkey, breakfast links, mild, raw",Sausages and Luncheon Meats,32.0,0.93,0.07,1.17,18.9,0.035,178.0,310.0,16.7,10.4,69.6,2.58,4.27,3.87,9.02,168.71609999999998
-326135,"Cheese, swiss",Dairy and Egg Products,890.0,1.44,0.047,0.13,33.4,0.027,574.0,71.0,27.0,31.0,37.6,4.37,4.27,3.87,8.79,393.35279999999995
-326196,"Kale, frozen, cooked, boiled, drained, without salt",Vegetables and Vegetable Products,150.0,5.3,0.067,0.84,25.0,0.542,42.0,144.0,2.94,1.21,89.8,0.27,2.44,3.57,8.37,36.2223
-326458,"Carrots, frozen, unprepared (Includes foods for USDA's Food Distribution Program)",Vegetables and Vegetable Products,33.0,7.92,0.08,0.43,10.8,0.143,31.0,210.0,0.81,0.47,90.1,0.28,2.78,3.84,8.37,36.5985
-326698,"Mustard, prepared, yellow",Spices and Herbs,63.0,5.3,0.074,1.59,47.7,0.42,108.0,150.0,4.25,3.38,83.7,0.64,3.47,3.34,8.37,60.7401
-326905,"Figs, dried, uncooked",Fruits and Fruit Juices,162.0,63.9,0.287,2.03,67.6,0.51,67.0,680.0,3.3,0.92,30.0,0.66,3.36,3.6,8.37,248.8284
-327046,"Kiwifruit, green, raw",Fruits and Fruit Juices,35.0,14.0,0.134,0.24,15.7,0.064,34.0,198.0,1.06,0.44,83.9,0.14,3.36,3.6,8.37,57.6444
-327198,"Melons, cantaloupe, raw",Fruits and Fruit Juices,9.0,8.16,0.085,0.38,13.0,0.046,17.0,157.0,0.82,0.18,90.2,0.44,3.36,3.6,8.37,33.6378
-327357,"Nectarines, raw",Fruits and Fruit Juices,2.0,9.18,0.082,0.3,8.8,0.047,26.0,131.0,1.06,0.28,89.0,0.21,3.36,3.6,8.37,38.9532
-327501,"Oranges, raw, navels (Includes foods for USDA's Food Distribution Program)",Fruits and Fruit Juices,43.0,11.8,0.064,0.33,10.7,0.029,23.0,166.0,0.91,0.15,86.7,0.11,3.36,3.6,8.37,46.7931
-327699,"Strawberries, raw",Fruits and Fruit Juices,12.0,7.63,0.119,0.28,11.8,0.28,20.0,89.0,0.64,0.22,91.1,0.18,3.36,3.6,8.37,31.4598
-327923,"Lettuce, cos or romaine, raw",Vegetables and Vegetable Products,35.0,3.24,0.048,0.95,13.7,0.127,30.0,253.0,1.24,0.26,94.7,0.25,2.44,3.57,8.37,16.7686
-328637,"Cheese, cheddar",Dairy and Egg Products,707.0,2.44,0.033,0.16,26.8,0.026,458.0,77.0,23.3,34.0,36.6,3.67,4.27,3.87,8.79,407.7938
-328841,"Cheese, cottage, lowfat, 2% milkfat",Dairy and Egg Products,103.0,4.31,0.03,0.13,8.9,0.015,148.0,120.0,11.0,2.3,81.1,0.61,4.27,3.87,8.79,83.8667
-329370,"Cheese, mozzarella, low moisture, part-skim",Dairy and Egg Products,693.0,4.44,0.035,0.2,27.2,0.035,533.0,116.0,23.7,20.4,47.7,3.62,4.27,3.87,8.79,297.6978
-329490,"Egg, whole, dried",Dairy and Egg Products,220.0,1.87,0.0,6.97,44.6,0.0,770.0,468.0,48.1,39.8,4.07,5.02,4.36,3.68,9.02,575.5935999999999
-329596,"Egg, yolk, raw, frozen, pasteurized",Dairy and Egg Products,119.0,0.59,0.0,4.13,11.2,0.068,443.0,102.0,15.6,25.1,56.1,2.93,4.36,3.68,9.02,296.5892
-329716,"Egg, yolk, dried",Dairy and Egg Products,270.0,1.07,0.0,9.28,26.0,0.0,982.0,231.0,34.2,55.5,3.64,7.11,4.36,3.68,9.02,653.6596
-329830,"Cheese, dry white, queso seco",Dairy and Egg Products,661.0,2.07,0.027,0.18,26.7,0.018,475.0,116.0,24.5,24.3,42.2,3.28,4.27,3.87,8.79,326.2229
-330137,"Yogurt, Greek, plain, nonfat",Dairy and Egg Products,111.0,3.64,0.017,0.07,10.7,0.009,136.0,141.0,10.3,0.37,85.0,0.53,4.27,3.87,8.79,61.320100000000004
-330415,"Yogurt, Greek, strawberry, nonfat",Dairy and Egg Products,97.0,12.2,0.02,0.09,10.4,0.034,113.0,133.0,8.06,0.15,79.0,0.46,4.27,3.87,8.79,82.9487
-330458,"Oil, coconut",Fats and Oils,1.0,0.84,0.0,0.05,0.0,0.0,0.0,0.0,0.0,99.1,0.03,0.02,3.47,4.07,8.37,832.8857999999999
-330869,"Turkey, ground, 93% lean, 7% fat, pan-broiled crumbles",Poultry Products,31.0,0.0,0.166,1.56,29.1,0.01,259.0,304.0,27.1,11.6,61.1,3.77,4.27,3.87,9.02,220.349
-331897,"Chicken, broilers or fryers, drumstick, meat only, cooked, braised",Poultry Products,12.0,0.0,0.063,0.94,22.4,0.018,184.0,239.0,23.9,5.95,69.9,2.54,4.27,3.87,9.02,155.72199999999998
-331960,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",Poultry Products,6.0,0.0,0.044,0.49,32.0,0.012,241.0,343.0,32.1,3.24,65.3,0.96,4.27,3.87,9.02,166.29179999999997
-332282,"Sauce, pasta, spaghetti/marinara, ready-to-serve","Soups, Sauces, and Gravies",27.0,8.05,0.081,0.78,18.5,0.137,34.0,319.0,1.41,1.48,87.4,0.2,2.44,3.57,8.37,44.5665
-332397,"Ham, sliced, pre-packaged, deli meat (96%fat free, water added)",Sausages and Luncheon Meats,5.0,0.27,0.05,0.58,18.8,0.0,261.0,425.0,16.7,3.73,75.7,1.52,4.27,3.87,9.02,105.99849999999998
-332597,"Pears, raw, bartlett (Includes foods for USDA's Food Distribution Program)",Fruits and Fruit Juices,8.0,15.1,0.07,0.17,5.7,0.032,10.0,87.0,0.38,0.16,84.1,0.07,3.36,3.6,8.37,56.976
-332791,"Olives, green, Manzanilla, stuffed with pimiento",Fruits and Fruit Juices,121.0,4.96,0.107,0.31,12.4,0.047,7.0,43.0,1.15,12.9,76.7,0.09,3.36,3.6,8.37,129.693
-332864,"Sausage, pork, chorizo, link or ground, cooked, pan-fried",Sausages and Luncheon Meats,37.0,2.63,0.13,2.34,30.1,0.188,207.0,435.0,19.3,28.1,46.3,2.19,4.27,3.87,9.02,346.0511
-333008,"Cookies, oatmeal, soft, with raisins",Baked Products,29.0,69.6,0.141,2.28,32.4,0.755,111.0,245.0,5.79,14.3,8.85,0.62,4.0,4.0,9.0,430.26
-333281,"Tomatoes, canned, red, ripe, diced",Vegetables and Vegetable Products,30.0,3.32,0.052,0.57,9.8,0.068,18.0,198.0,0.84,0.5,94.6,0.12,2.44,3.57,8.37,18.087
-333374,"Fish, haddock, raw",Finfish and Shellfish Products,11.0,0.0,0.021,0.17,21.1,0.011,227.0,286.0,16.3,0.45,83.4,0.32,4.27,3.87,9.02,73.66
-333476,"Fish, pollock, raw",Finfish and Shellfish Products,15.0,0.0,0.031,0.22,16.1,0.011,284.0,160.0,12.3,0.41,86.7,0.31,4.27,3.87,9.02,56.2192
-334194,"Fish, tuna, light, canned in water, drained solids",Finfish and Shellfish Products,18.0,0.08,0.048,1.67,22.7,0.019,137.0,176.0,19.0,0.94,79.0,0.66,4.27,3.87,9.02,89.91839999999999
-334247,"Sugars, granulated",Sweets,1.0,99.6,0.007,0.05,0.3,0.004,0.0,2.0,0.0,0.32,0.02,0.01,0.0,3.87,0.0,385.452
-334462,"Restaurant, Chinese, sweet and sour pork",Restaurant Foods,46.0,25.5,0.06,3.07,13.0,0.173,133.0,152.0,8.88,13.6,50.8,1.07,4.0,4.0,9.0,259.92
-334536,"Restaurant, Chinese, fried rice, without meat",Restaurant Foods,11.0,32.5,0.086,0.46,9.7,0.428,44.0,69.0,3.84,3.19,59.3,0.69,4.0,4.0,9.0,174.07000000000002
-334628,"Restaurant, Latino, tamale, pork",Restaurant Foods,75.0,15.8,0.05,0.87,26.2,0.186,120.0,152.0,7.38,9.04,66.0,1.2,4.0,4.0,9.0,174.07999999999998
-334720,"Restaurant, Latino, pupusas con frijoles (pupusas, bean)",Restaurant Foods,51.0,31.5,0.141,1.46,53.6,0.344,144.0,305.0,5.59,9.01,52.2,0.94,4.0,4.0,9.0,229.45000000000002
-334849,"Beef, loin, top loin steak, boneless, lip-on, separable lean only, trimmed to 1/8"" fat, choice, raw",Beef Products,15.0,0.0,0.043,1.9,11.3,0.002,206.0,282.0,22.8,6.39,69.9,3.76,4.27,3.87,9.02,154.9938
-334897,"Beef, loin, tenderloin roast, separable lean only, boneless, trimmed to 0"" fat, select, cooked, roasted",Beef Products,13.0,0.0,0.097,3.04,13.7,0.008,259.0,352.0,27.7,6.36,65.7,3.7,4.27,3.87,9.02,175.64619999999996
-334898,"Beef, round, eye of round roast, boneless, separable lean only, trimmed to 0"" fat, select, raw",Beef Products,13.0,0.0,0.035,1.37,11.4,0.002,222.0,312.0,23.4,2.48,73.7,3.38,4.27,3.87,9.02,122.28759999999997
-334963,"Beef, round, top round roast, boneless, separable lean only, trimmed to 0"" fat, select, raw",Beef Products,13.0,0.0,0.047,2.34,11.9,0.003,220.0,316.0,23.7,2.41,73.3,3.54,4.27,3.87,9.02,122.93719999999999
-335061,"Beef, short loin, t-bone steak, bone-in, separable lean only, trimmed to 1/8"" fat, choice, cooked, grilled",Beef Products,19.0,0.0,0.078,3.53,20.0,0.003,211.0,283.0,27.3,11.4,60.3,4.69,4.27,3.87,9.02,219.399
-335109,"Beef, short loin, porterhouse steak, separable lean only, trimmed to 1/8"" fat, select, raw",Beef Products,19.0,0.0,0.075,2.26,10.7,0.003,200.0,266.0,22.7,5.32,71.4,3.52,4.27,3.87,9.02,144.91539999999998
-335240,"Bread, whole-wheat, commercially prepared",Baked Products,163.0,43.1,0.226,2.56,76.6,2.18,212.0,250.0,12.3,3.55,38.7,1.76,4.0,4.0,9.0,253.55
-746758,"Beef, loin, tenderloin roast, separable lean only, boneless, trimmed to 0"" fat, select, cooked, roasted",Beef Products,13.0,0.0,0.097,3.04,13.7,0.008,259.0,352.0,27.7,6.36,65.7,3.7,4.27,3.87,9.02,175.64619999999996
-746759,"Beef, loin, top loin steak, boneless, lip-on, separable lean only, trimmed to 1/8"" fat, choice, raw",Beef Products,15.0,0.0,0.043,1.9,11.3,0.002,206.0,282.0,22.8,6.39,69.9,3.76,4.27,3.87,9.02,154.9938
-746760,"Beef, round, eye of round roast, boneless, separable lean only, trimmed to 0"" fat, select, raw",Beef Products,13.0,0.0,0.035,1.37,11.4,0.002,222.0,312.0,23.4,2.48,73.7,3.38,4.27,3.87,9.02,122.28759999999997
-746761,"Beef, round, top round roast, boneless, separable lean only, trimmed to 0"" fat, select, raw",Beef Products,13.0,0.0,0.047,2.34,11.9,0.003,220.0,316.0,23.7,2.41,73.3,3.54,4.27,3.87,9.02,122.93719999999999
-746762,"Beef, short loin, porterhouse steak, separable lean only, trimmed to 1/8"" fat, select, raw",Beef Products,19.0,0.0,0.075,2.26,10.7,0.003,200.0,266.0,22.7,5.32,71.4,3.52,4.27,3.87,9.02,144.91539999999998
-746763,"Beef, short loin, t-bone steak, bone-in, separable lean only, trimmed to 1/8"" fat, choice, cooked, grilled",Beef Products,19.0,0.0,0.078,3.53,20.0,0.003,211.0,283.0,27.3,11.4,60.3,4.69,4.27,3.87,9.02,219.399
-746764,"Carrots, frozen, unprepared",Vegetables and Vegetable Products,33.0,7.92,0.08,0.43,10.8,0.143,31.0,210.0,0.81,0.47,90.1,0.28,2.78,3.84,8.37,36.5985
-746765,"Cheese, dry white, queso seco",Dairy and Egg Products,661.0,2.07,0.027,0.18,26.7,0.018,475.0,116.0,24.5,24.3,42.2,3.28,4.27,3.87,8.79,326.2229
-746766,"Cheese, ricotta, whole milk",Dairy and Egg Products,224.0,6.86,0.0,0.1,19.7,0.0,162.0,230.0,7.81,11.0,72.9,0.56,4.27,3.87,8.79,156.58689999999999
-746767,"Cheese, swiss",Dairy and Egg Products,890.0,1.44,0.047,0.13,33.4,0.027,574.0,71.0,27.0,31.0,37.6,4.37,4.27,3.87,8.79,393.35279999999995
-746768,"Figs, dried, uncooked",Fruits and Fruit Juices,162.0,63.9,0.287,2.03,67.6,0.51,67.0,680.0,3.3,0.92,30.0,0.66,3.36,3.6,8.37,248.8284
-746769,"Lettuce, cos or romaine, raw",Vegetables and Vegetable Products,35.0,3.24,0.048,0.95,13.7,0.127,30.0,253.0,1.24,0.26,94.7,0.25,2.44,3.57,8.37,16.7686
-746770,"Melons, cantaloupe, raw",Fruits and Fruit Juices,9.0,8.16,0.085,0.38,13.0,0.046,17.0,157.0,0.82,0.18,90.2,0.44,3.36,3.6,8.37,33.6378
-746771,"Oranges, raw, navels",Fruits and Fruit Juices,43.0,11.8,0.064,0.33,10.7,0.029,23.0,166.0,0.91,0.15,86.7,0.11,3.36,3.6,8.37,46.7931
-746772,"Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D",Dairy and Egg Products,126.0,5.18,0.001,0.0,12.0,0.0,103.0,159.0,3.38,0.95,89.7,0.43,4.27,3.87,8.79,42.829699999999995
-746773,"Pears, raw, bartlett",Fruits and Fruit Juices,8.0,15.1,0.07,0.17,5.7,0.032,10.0,87.0,0.38,0.16,84.1,0.07,3.36,3.6,8.37,56.976
-746774,"Restaurant, Chinese, sweet and sour pork",Restaurant Foods,46.0,25.5,0.06,3.07,13.0,0.173,133.0,152.0,8.88,13.6,50.8,1.07,4.0,4.0,9.0,259.92
-746776,"Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)",Dairy and Egg Products,132.0,4.92,0.002,0.0,12.5,0.001,107.0,167.0,3.43,0.08,90.8,0.45,4.27,3.87,8.79,34.389700000000005
-746777,"Sauce, salsa, ready-to-serve","Soups, Sauces, and Gravies",28.0,6.74,0.065,0.42,15.2,0.11,32.0,258.0,1.44,0.19,89.3,0.2,2.44,3.57,8.87,29.2607
-746778,"Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D",Dairy and Egg Products,126.0,4.9,0.001,0.0,12.0,0.001,103.0,159.0,3.36,1.9,89.1,0.43,4.27,3.87,8.79,50.01119999999999
-746779,"Sausage, breakfast sausage, beef, pre-cooked, unprepared",Sausages and Luncheon Meats,35.0,3.37,0.075,1.55,19.7,0.174,124.0,263.0,13.3,28.7,51.7,2.14,4.27,3.87,9.02,328.70689999999996
-746780,"Sausage, Italian, pork, mild, cooked, pan-fried",Sausages and Luncheon Meats,12.0,2.15,0.074,1.29,18.6,0.033,145.0,310.0,18.2,26.2,50.9,2.41,4.27,3.87,9.02,322.35849999999994
-746781,"Sausage, pork, chorizo, link or ground, cooked, pan-fried",Sausages and Luncheon Meats,37.0,2.63,0.13,2.34,30.1,0.188,207.0,435.0,19.3,28.1,46.3,2.19,4.27,3.87,9.02,346.0511
-746782,"Milk, whole, 3.25% milkfat, with added vitamin D",Dairy and Egg Products,123.0,4.63,0.001,0.0,11.9,0.0,101.0,150.0,3.27,3.2,88.1,0.42,4.27,3.87,8.79,60.009
-746783,"Sausage, turkey, breakfast links, mild, raw",Sausages and Luncheon Meats,32.0,0.93,0.07,1.17,18.9,0.035,178.0,310.0,16.7,10.4,69.6,2.58,4.27,3.87,9.02,168.71609999999998
-746784,"Sugars, granulated",Sweets,1.0,99.6,0.007,0.05,0.3,0.004,0.0,2.0,0.0,0.32,0.02,0.01,0.0,3.87,0.0,385.452
-746785,"Turkey, ground, 93% lean, 7% fat, pan-broiled crumbles",Poultry Products,31.0,0.0,0.166,1.56,29.1,0.01,259.0,304.0,27.1,11.6,61.1,3.77,4.27,3.87,9.02,220.349
-746952,"Ham, sliced, restaurant",Pork Products,6.0,2.36,0.041,0.86,20.3,0.015,246.0,484.0,19.6,3.68,70.7,1.76,4.27,3.87,9.02,126.0188
-747429,"Cheese, American, restaurant",Dairy and Egg Products,508.0,6.35,0.042,0.24,25.0,0.018,380.0,173.0,17.5,31.1,39.5,2.45,4.27,3.87,8.79,372.6685
-747447,"Broccoli, raw",Vegetables and Vegetable Products,46.0,6.27,0.059,0.69,21.0,0.197,67.0,303.0,2.57,0.34,90.0,0.42,2.44,3.57,8.37,31.5005
-747448,"Strawberries, raw",Fruits and Fruit Juices,12.0,7.63,0.119,0.28,11.8,0.28,20.0,89.0,0.64,0.22,91.1,0.18,3.36,3.6,8.37,31.4598
-747693,"Ketchup, restaurant",Vegetables and Vegetable Products,14.0,26.8,0.066,0.43,13.5,0.086,25.0,249.0,1.11,0.55,68.5,0.16,2.44,3.57,8.37,102.9879
-747997,"Eggs, Grade A, Large, egg white",Dairy and Egg Products,,2.36,,,,,,,10.7,0.0,86.3,,4.36,3.68,9.02,55.3368
-748236,"Eggs, Grade A, Large, egg yolk",Dairy and Egg Products,,1.02,,,,,,,16.2,28.8,52.1,,4.36,3.68,9.02,334.1616
-748967,"Eggs, Grade A, Large, egg whole",Dairy and Egg Products,48.0,0.96,0.0,1.67,11.4,0.0,184.0,132.0,12.4,9.96,75.8,1.24,4.36,3.68,9.02,147.436
-749420,"Pork, cured, bacon, cooked, restaurant",Pork Products,13.0,2.1,0.13,1.28,36.5,0.02,415.0,557.0,40.9,36.5,14.2,3.56,4.27,3.87,9.02,511.99999999999994
-789890,"Flour, wheat, all-purpose, enriched, bleached",Cereal Grains and Pasta,19.0,77.3,0.155,5.62,26.7,0.758,108.0,136.0,10.9,1.48,9.83,0.72,4.05,4.12,8.37,375.0086
-789951,"Flour, wheat, all-purpose, enriched, unbleached",Cereal Grains and Pasta,21.0,73.2,0.172,5.41,33.3,0.875,115.0,135.0,13.1,1.48,11.7,0.9,4.05,4.12,8.37,367.02660000000003
-790018,"Flour, wheat, all-purpose, unenriched, unbleached",Cereal Grains and Pasta,22.0,74.6,0.212,1.18,36.1,0.819,134.0,150.0,12.0,1.7,11.1,1.15,4.05,4.12,8.37,370.181
-790085,"Flour, whole wheat, unenriched",Cereal Grains and Pasta,38.0,71.2,0.452,3.86,136.0,3.56,352.0,376.0,15.1,2.73,9.44,3.24,3.59,3.78,8.37,346.1951
-790146,"Flour, bread, white, enriched, unbleached",Cereal Grains and Pasta,19.0,72.8,0.194,5.55,35.9,0.751,124.0,127.0,14.3,1.65,10.7,1.06,4.05,4.12,8.37,371.6615
-790214,"Flour, rice, white, unenriched",Cereal Grains and Pasta,6.0,79.8,0.209,0.22,22.9,0.892,94.0,75.0,6.94,1.3,11.6,1.19,3.82,4.16,8.37,369.35980000000006
-790276,"Flour, corn, yellow, fine meal, enriched",Cereal Grains and Pasta,0.0,80.8,0.082,4.44,30.1,0.172,92.0,144.0,6.2,1.74,10.8,0.62,3.46,4.16,8.37,372.1438
-1104647,"Garlic, raw",Vegetables and Vegetable Products,,28.2,,,,,,,6.62,0.38,63.1,,2.78,3.84,8.37,129.8722
-1104705,"Flour, soy, defatted",Legumes and Legume Products,338.0,32.9,1.51,7.34,313.0,3.81,726.0,2480.0,51.1,3.33,6.24,4.44,3.47,4.07,8.37,339.0921
-1104766,"Flour, soy, full-fat",Legumes and Legume Products,258.0,27.9,1.09,9.51,254.0,3.16,607.0,1860.0,38.6,20.7,7.85,3.75,3.47,4.07,8.37,420.754
-1104812,"Flour, rice, brown",Cereal Grains and Pasta,10.0,75.5,0.286,1.5,124.0,2.84,319.0,265.0,7.19,3.85,12.1,1.91,3.41,4.12,8.37,367.8024
-1104867,"Flour, rice, glutinous",Cereal Grains and Pasta,10.0,80.1,0.17,0.34,21.2,0.995,63.0,80.0,6.69,1.16,11.8,1.34,3.82,4.16,8.37,368.481
-1104913,"Flour, pastry, unenriched, unbleached",Cereal Grains and Pasta,17.0,77.2,0.159,0.87,22.4,0.635,102.0,142.0,8.75,1.64,11.9,0.74,4.05,4.12,8.37,367.2283
-1104962,"Onions, white, raw",Vegetables and Vegetable Products,21.0,7.68,0.047,0.15,9.3,0.099,29.0,141.0,0.89,0.13,91.3,0.12,2.78,3.84,8.37,33.0535
-1105073,"Bananas, overripe, raw",Fruits and Fruit Juices,,20.1,,,,,,,0.73,0.22,78.3,,3.36,3.6,8.37,76.6542
-1105314,"Bananas, ripe and slightly ripe, raw",Fruits and Fruit Juices,5.0,23.0,0.101,0.0,28.0,0.258,22.0,326.0,0.74,0.29,75.3,0.16,3.36,3.6,8.37,87.7137
-1105430,"Apples, red delicious, with skin, raw",Fruits and Fruit Juices,5.0,14.8,0.024,0.0,4.7,0.03,9.0,95.0,0.19,0.21,84.7,0.02,3.36,3.6,8.37,55.6761
-1105547,"Apples, honeycrisp, with skin, raw",Fruits and Fruit Juices,4.0,14.7,0.023,0.0,4.2,0.04,8.0,98.0,0.1,0.1,85.0,0.02,3.36,3.6,8.37,54.093
-1105664,"Apples, granny smith, with skin, raw",Fruits and Fruit Juices,5.0,14.2,0.035,0.07,5.1,0.039,10.0,116.0,0.27,0.14,85.1,0.02,3.36,3.6,8.37,53.199
-1105781,"Apples, gala, with skin, raw",Fruits and Fruit Juices,7.0,14.8,0.034,0.06,5.0,0.04,8.0,106.0,0.13,0.15,84.6,0.02,3.36,3.6,8.37,54.9723
-1105897,"Apples, fuji, with skin, raw",Fruits and Fruit Juices,6.0,15.7,0.033,0.02,4.7,0.033,10.0,104.0,0.15,0.16,83.6,0.02,3.36,3.6,8.37,58.36319999999999
-1750337,"Soy milk, unsweetened, plain, shelf stable",Legumes and Legume Products,101.0,1.293125,0.1078,0.5416,21.54,0.2077,68.65,158.2,3.546875,2.125,92.4,0.3118,4.0,4.0,9.0,38.485
-1750338,"Almond milk, unsweetened, plain, shelf stable",Beverages,172.7,0.3371125,0.02126,0.2899,6.785,0.04497,29.85,30.79,0.5546875,1.221,97.4,0.1718,4.0,4.0,9.0,14.5562
-1750339,"Apples, red delicious, with skin, raw",Fruits and Fruit Juices,4.656,14.7817,0.02429,0.0,4.695,0.02948,9.183,95.31,0.1875,0.2125,84.67,0.01964,3.36,3.6,8.37,55.622745
-1750340,"Apples, fuji, with skin, raw",Fruits and Fruit Juices,5.975,15.6511625,0.03279,0.015,4.67,0.03263,9.78,103.8,0.1484375,0.1625,83.61,0.01676,3.36,3.6,8.37,58.20306000000001
-1750341,"Apples, gala, with skin, raw",Fruits and Fruit Juices,6.639,14.7680875,0.03394,0.06013,4.947,0.04004,8.435,105.9,0.1328125,0.15,84.65,0.02349,3.36,3.6,8.37,54.866865
-1750342,"Apples, granny smith, with skin, raw",Fruits and Fruit Juices,5.483,14.142975,0.03544,0.06963,5.055,0.03934,9.859,115.9,0.265625,0.1375,85.14,0.02276,3.36,3.6,8.37,52.958085
-1750343,"Apples, honeycrisp, with skin, raw",Fruits and Fruit Juices,3.874,14.6819375,0.0234,0.0,4.151,0.0397,7.852,98.04,0.1015625,0.1,85.03,0.01828,3.36,3.6,8.37,54.03322500000001
-1750344,"Mushroom, lion's mane",Vegetables and Vegetable Products,0.0,7.5897,0.1771,0.6883,11.72,0.1796,93.95,443.3,2.5,0.2563,88.57,0.7448,2.62,3.48,8.37,35.107387
-1750345,"Mushroom, oyster",Vegetables and Vegetable Products,0.0,6.94125,0.1064,0.6981,13.91,0.08554,86.24,281.6,2.89875,0.1875,89.24,0.6843,2.62,3.48,8.37,33.31965
-1750346,"Mushrooms, shiitake",Vegetables and Vegetable Products,0.7663,8.170625,0.04978,0.1443,14.06,0.1734,75.82,243.0,2.414375,0.195,88.6,0.7641,2.62,3.48,8.37,36.3915875
-1750347,"Mushrooms, white button",Vegetables and Vegetable Products,5.465,4.079375,0.3888,0.2267,10.16,0.0538,93.05,373.0,2.890625,0.3708,91.83,0.511,2.62,3.48,8.37,24.8732585
-1750352,"Spinach, baby",Vegetables and Vegetable Products,68.35,2.406325,0.08181,1.261,92.86,0.4884,39.05,581.8,2.851875,0.6188,92.52,0.4471,2.44,3.57,8.37,20.728511249999997
-1750353,"Spinach, mature",Vegetables and Vegetable Products,66.64,2.64135,0.07883,1.054,92.96,0.4257,40.56,459.7,2.90625,0.6044,92.43,0.4229,2.44,3.57,8.37,21.5796975
-1750354,"Tomato, roma",Vegetables and Vegetable Products,9.963,3.837475,0.03198,0.1031,8.089,0.0869,19.09,192.8,0.695625,0.425,94.73,0.08245,2.44,3.57,8.37,18.954360749999996
-1999626,"Mushroom, lion's mane",Vegetables and Vegetable Products,0.0,7.5897,0.1771,0.6883,11.72,0.1796,93.95,443.3,2.5,0.2563,88.57,0.7448,2.62,3.48,8.37,35.107387
-1999627,"Mushroom, oyster",Vegetables and Vegetable Products,0.0,6.94125,0.1064,0.6981,13.91,0.08554,86.24,281.6,2.89875,0.1875,89.24,0.6843,2.62,3.48,8.37,33.31965
-1999628,"Mushrooms, shiitake",Vegetables and Vegetable Products,0.7663,8.170625,0.04978,0.1443,14.06,0.1734,75.82,243.0,2.414375,0.195,88.6,0.7641,2.62,3.48,8.37,36.3915875
-1999629,"Mushrooms, white button",Vegetables and Vegetable Products,5.465,4.079375,0.3888,0.2267,10.16,0.0538,93.05,373.0,2.890625,0.3708,91.83,0.511,2.62,3.48,8.37,24.8732585
-1999630,"Soy milk, unsweetened, plain, shelf stable",Legumes and Legume Products,101.0,1.293125,0.1078,0.5416,21.54,0.2077,68.65,158.2,3.546875,2.125,92.4,0.3118,4.0,4.0,9.0,38.485
-1999631,"Almond milk, unsweetened, plain, shelf stable",Beverages,172.7,0.3371125,0.02126,0.2899,6.785,0.04497,29.85,30.79,0.5546875,1.221,97.4,0.1718,4.0,4.0,9.0,14.5562
-1999632,"Spinach, baby",Vegetables and Vegetable Products,68.35,2.406325,0.08181,1.261,92.86,0.4884,39.05,581.8,2.851875,0.6188,92.52,0.4471,2.44,3.57,8.37,20.728511249999997
-1999633,"Spinach, mature",Vegetables and Vegetable Products,66.64,2.64135,0.07883,1.054,92.96,0.4257,40.56,459.7,2.90625,0.6044,92.43,0.4229,2.44,3.57,8.37,21.5796975
-1999634,"Tomato, roma",Vegetables and Vegetable Products,9.963,3.837475,0.03198,0.1031,8.089,0.0869,19.09,192.8,0.695625,0.425,94.73,0.08245,2.44,3.57,8.37,18.954360749999996
-2003586,"Flour, 00",Cereal Grains and Pasta,18.68,74.4462,0.1675,0.9863,25.8,0.5516,106.2,135.5,11.4,1.52,12.17,0.791,4.05,4.12,8.37,365.610744
-2003587,"Flour, spelt, whole grain",Cereal Grains and Pasta,30.04,70.723,0.5313,3.769,123.8,2.943,361.7,349.8,14.475,2.543,10.72,3.591,3.59,3.78,8.37,340.5831
-2003588,"Flour, semolina, coarse and semi-coarse",Cereal Grains and Pasta,17.16,73.82345,0.2273,1.547,35.21,0.647,129.8,173.8,11.73125,1.597,12.24,0.947,4.05,4.12,8.37,365.03106649999995
-2003589,"Flour, semolina, fine",Cereal Grains and Pasta,19.76,71.98575,0.2855,2.431,46.28,0.842,163.1,207.8,13.33125,1.838,12.11,1.24,4.05,4.12,8.37,365.95691249999993
-2003590,"Apple juice, with added vitamin C, from concentrate, shelf stable",Fruits and Fruit Juices,7.099,11.3639625,0.003401,0.04016,4.861,0.0271,5.987,95.87,0.0859375,0.2863,88.14,0.002125,3.36,3.92,8.37,47.231814
-2003591,"Orange juice, no pulp, not fortified, from concentrate, refrigerated",Fruits and Fruit Juices,12.81,10.340625,0.03218,0.06458,10.64,0.02986,18.15,179.5,0.734375,0.325,88.25,0.03189,3.36,3.92,8.37,45.723
-2003592,"Grape juice, purple, with added vitamin C, from concentrate, shelf stable",Fruits and Fruit Juices,9.741,15.6227875,0.01469,0.04092,7.873,0.1658,11.95,49.78,0.2578125,0.2875,83.71,0.0571,3.36,3.92,8.37,64.513952
-2003593,"Grape juice, white, with added vitamin C, from concentrate, shelf stable",Fruits and Fruit Juices,7.318,15.84375,0.004458,0.1191,4.274,0.06128,12.57,49.01,0.09375,0.265,83.66,0.01773,3.36,3.92,8.37,64.64055
-2003594,"Cranberry juice, not fortified, from concentrate, shelf stable",Fruits and Fruit Juices,6.641,7.26375,0.01316,0.1257,4.381,0.2111,3.299,70.58,0.0,0.3375,92.3,0.0412,3.36,3.92,8.37,31.298775
-2003595,"Grapefruit juice, red, not fortified, not from concentrate, refrigerated",Fruits and Fruit Juices,8.879,9.1021875,0.02411,0.01529,7.748,0.01548,14.58,128.3,0.5703125,0.2669,89.84,0.02739,3.36,3.92,8.37,39.830777999999995
-2003596,"Tomato juice, with added ingredients, from concentrate, shelf stable",Vegetables and Vegetable Products,9.744,4.320625,0.05745,0.2988,10.43,0.05834,18.54,197.6,0.859375,0.2875,93.6,0.104,2.44,3.57,8.37,19.92788125
-2003597,"Orange juice, no pulp, not fortified, not from concentrate, refrigerated",Fruits and Fruit Juices,9.288,10.0124,0.03529,0.07061,10.26,0.02774,18.96,182.8,0.8125,0.3563,88.48,0.03206,3.36,3.92,8.37,44.96083899999999
-2003598,"Mushroom, portabella",Vegetables and Vegetable Products,3.235,4.6583,0.2033,0.139,9.037,0.04873,87.48,349.3,2.75,0.3117,91.48,0.3888,2.62,3.48,8.37,26.024812999999998
-2003599,"Mushroom, king oyster",Vegetables and Vegetable Products,0.0,8.50065,0.047,0.3381,13.51,0.09125,89.86,294.5,2.40625,0.3075,88.13,0.6254,2.62,3.48,8.37,38.460412
-2003600,"Mushroom, enoki",Vegetables and Vegetable Products,1.432,8.141425,0.09342,1.275,12.84,0.09013,84.1,402.3,2.416875,0.245,88.29,0.4815,2.62,3.48,8.37,36.7150215
-2003601,"Mushroom, crimini",Vegetables and Vegetable Products,4.105,4.01455,0.3212,0.3115,10.25,0.06095,100.5,380.3,3.09375,0.1967,91.82,0.5123,2.62,3.48,8.37,23.722638
-2003602,"Mushroom, maitake",Vegetables and Vegetable Products,0.0,6.604375,0.2719,0.2089,11.04,0.0584,72.38,260.0,2.203125,0.265,90.37,0.7629,2.62,3.48,8.37,30.973462500000004
-2003603,"Mushroom, beech",Vegetables and Vegetable Products,0.4325,6.7593,0.07302,0.7388,10.49,0.156,85.9,375.9,2.18,0.4494,89.85,0.4978,2.62,3.48,8.37,32.995442
-2003604,"Mushroom, pioppini",Vegetables and Vegetable Products,0.0,5.7637,0.2755,0.486,15.99,0.09791,120.6,392.4,3.5,0.24,89.56,0.8573,2.62,3.48,8.37,31.236476000000003
-2257044,"Soy milk, sweetened, plain, refrigerated",Legumes and Legume Products,154.8,2.996125,0.09561,0.3666,17.46,0.1596,45.96,117.9,2.776875,1.957,91.52,0.2636,0.0,0.0,0.0,0.0
-2257045,"Almond milk, unsweetened, plain, refrigerated",Beverages,157.5,0.67075,0.02688,0.1247,8.249,0.05642,19.08,49.27,0.65625,1.558,96.52,0.07661,0.0,0.0,0.0,0.0
-2257046,"Oat milk, unsweetened, plain, refrigerated",Beverages,148.5,5.100325,0.02712,0.2612,5.909,0.1262,89.18,148.4,0.796875,2.749,90.56,0.09062,0.0,0.0,0.0,0.0
-2258586,"Carrots, mature, raw",Vegetables and Vegetable Products,30.48,10.26755,0.06148,0.1504,12.45,0.1301,39.81,279.6,0.94125,0.3506,87.72,0.2364,2.78,3.84,8.37,44.978589
-2258587,"Carrots, baby, raw",Vegetables and Vegetable Products,42.23,9.0787,0.04062,0.088,11.06,0.09288,29.58,237.3,0.805,0.1375,89.3,0.1597,2.78,3.84,8.37,38.25098299999999
-2258588,"Peppers, bell, green, raw",Vegetables and Vegetable Products,7.496,4.7781,0.05775,0.1861,9.004,0.09991,16.75,163.1,0.715,0.1063,94.12,0.1256,2.44,3.57,8.37,19.692148
-2258589,"Peppers, bell, yellow, raw",Vegetables and Vegetable Products,6.686,6.601725,0.04529,0.3596,10.34,0.1417,24.76,197.3,0.819375,0.1211,92.08,0.193,2.44,3.57,8.37,26.58104025
-2258590,"Peppers, bell, red, raw",Vegetables and Vegetable Products,6.361,6.653175,0.03983,0.3533,10.98,0.1328,26.59,212.7,0.895625,0.1256,91.93,0.2023,2.44,3.57,8.37,26.98843175
-2258591,"Peppers, bell, orange, raw",Vegetables and Vegetable Products,4.899,6.703125,0.0351,0.3652,10.43,0.1491,26.59,200.8,0.881875,0.1556,91.88,0.2422,2.44,3.57,8.37,27.38430325
-2259792,"Buttermilk, low fat",Dairy and Egg Products,120.1,4.811522,0.00135,0.01325,11.03,0.0,92.19,158.0,3.464978,1.081,89.79,0.4263,4.27,3.87,8.79,42.918036199999996
-2259793,"Yogurt, plain, whole milk",Dairy and Egg Products,126.8,5.574928,0.003175,0.0,11.45,0.001539,101.2,164.1,3.824172,4.484,85.27,0.4283,4.27,3.87,8.79,77.31854579999998
-2259794,"Yogurt, Greek, plain, whole milk",Dairy and Egg Products,110.9,4.75402,0.009513,0.0,10.7,0.005738,125.9,146.9,8.77888,4.394,81.32,0.473,4.27,3.87,8.79,94.50713499999998
-2259795,"Cheese, parmesan, grated, refrigerated",Dairy and Egg Products,950.4,4.33188,0.04233,0.1405,35.37,0.03713,625.3,73.95,30.13912,29.5,30.83,4.623,4.27,3.87,8.79,404.7634179999999
-2259796,"Cheese, feta, whole milk, crumbled",Dairy and Egg Products,371.1,5.58318,0.03155,0.0675,17.69,0.02003,327.6,105.3,19.70782,19.08,51.89,2.353,4.27,3.87,8.79,273.472498
-2261420,"Flour, almond",Nut and Seed Products,232.3,16.24925,0.9753,3.225,251.1,1.813,512.1,666.8,26.24375,50.23,4.316,2.795,3.47,4.07,8.37,577.62536
-2261421,"Flour, oat, whole grain",Cereal Grains and Pasta,42.81,69.91725,0.4434,3.997,125.3,3.257,371.8,373.1,13.16875,6.309,8.859,2.754,3.46,4.12,8.37,386.42927499999996
-2261422,"Flour, potato",Vegetables and Vegetable Products,44.12,79.9422,0.2309,11.97,73.65,0.6758,197.3,1269.0,8.1125,0.9513,8.281,0.9002,2.78,4.03,8.37,352.68219700000003
-2262072,"Peanut butter, creamy",Legumes and Legume Products,49.85,22.70376,0.5405,1.853,192.6,1.681,393.2,654.0,23.99124,49.43,1.104,3.062,3.47,4.07,8.37,589.383006
-2262073,"Sesame butter, creamy",Nut and Seed Products,115.8,14.179,1.646,7.003,356.8,1.609,719.3,407.7,19.7054,62.4,0.6056,6.039,3.47,4.07,8.37,648.3742679999999
-2262074,"Almond butter, creamy",Nut and Seed Products,263.8,21.23666,0.9746,4.108,267.8,2.135,506.9,745.4,20.78734,53.04,1.751,3.178,3.47,4.07,8.37,602.510076
-2262075,"Flaxseed, ground",Nut and Seed Products,229.9,34.3551,1.344,5.778,372.1,2.405,556.4,793.4,18.0359,37.28,6.804,4.738,3.47,4.07,8.37,514.44343
-2263887,"Strawberries, raw",Fruits and Fruit Juices,16.9,7.964375,0.03471,0.255,12.52,0.3675,22.98,160.7,0.640625,0.22,90.83,0.114,3.36,3.6,8.37,32.66565
-2263888,"Raspberries, raw",Fruits and Fruit Juices,16.41,12.904375,0.05289,0.4501,19.15,0.4935,27.47,155.8,1.008125,0.1875,85.55,0.2213,3.36,3.6,8.37,51.412425000000006
-2263889,"Blueberries, raw",Fruits and Fruit Juices,11.69,14.571775,0.04605,0.3398,6.179,0.4228,12.96,85.64,0.703125,0.3063,84.19,0.08534,3.36,3.6,8.37,57.384620999999996
-2263890,"Grapes, red, seedless, raw",Fruits and Fruit Juices,10.17,20.196825,0.08081,0.1615,8.556,0.09758,24.86,229.4,0.914375,0.1638,78.19,0.03603,3.36,3.6,8.37,77.151876
-2263891,"Grapes, green, seedless, raw",Fruits and Fruit Juices,9.897,18.60375,0.06091,0.1991,7.118,0.08365,21.98,218.1,0.89875,0.2325,79.88,0.02674,3.36,3.6,8.37,71.93932500000001
-2263892,"Applesauce, unsweetened, with added vitamin C",Fruits and Fruit Juices,3.821,12.2615625,0.03905,0.04475,3.938,0.0368,9.119,107.7,0.2734375,0.1625,87.1,0.002625,3.36,3.6,8.37,46.420500000000004
-2346384,"Cottage cheese, full fat, large or small curd",Dairy and Egg Products,88.27,4.59964,0.0,0.0,9.189,0.0,154.0,123.6,11.62436,4.225,78.1,0.4538,4.27,3.87,8.79,104.57437399999998
-2346385,"Cream cheese, full fat, block",Dairy and Egg Products,97.11,4.55615,0.0,0.0,8.914,0.0,107.7,124.8,5.78985,33.49,54.72,0.5891,4.27,3.87,8.79,336.73206
-2346386,"Cream, heavy",Dairy and Egg Products,61.21,3.799506,0.0,0.0,5.974,0.0,57.03,96.94,2.017994,35.56,58.13,0.2231,4.27,3.87,8.79,335.89332260000003
-2346387,"Cream, sour, full fat",Dairy and Egg Products,107.2,5.555506,0.0,0.0,10.11,0.0,102.0,153.8,3.070694,17.99,72.58,0.3919,4.27,3.87,8.79,192.74377159999997
-2346388,"Lettuce, iceberg, raw",Vegetables and Vegetable Products,14.24,3.36875,0.03335,0.03325,6.311,0.08164,19.18,139.3,0.7425,0.07375,95.5,0.1728,2.44,3.57,8.37,14.455424999999998
-2346389,"Lettuce, romaine, green, raw",Vegetables and Vegetable Products,27.56,4.055575,0.04865,0.267,12.05,0.2271,23.41,260.4,0.976875,0.07125,94.29,0.2516,2.44,3.57,8.37,17.458340250000003
-2346390,"Lettuce, leaf, red, raw",Vegetables and Vegetable Products,42.59,3.260575,0.03773,0.4023,12.4,0.177,24.4,321.4,0.883125,0.1063,95.05,0.3033,2.44,3.57,8.37,14.684808749999998
-2346391,"Lettuce, leaf, green, raw",Vegetables and Vegetable Products,39.84,4.06615,0.03984,0.3195,12.77,0.1559,26.55,277.1,1.09375,0.1563,94.01,0.3103,2.44,3.57,8.37,18.4931365
-2346392,"Nuts, pine nuts, raw",Nut and Seed Products,8.736,18.5921,1.119,5.36,205.9,10.25,540.0,654.8,15.7039,61.27,1.925,5.713,3.47,4.07,8.37,642.9922799999999
-2346393,"Nuts, almonds, whole, raw",Nut and Seed Products,253.6,20.03462,0.9104,3.741,257.6,2.149,502.9,732.8,21.45038,51.09,4.261,2.865,3.47,4.07,8.37,583.5970219999999
-2346394,"Nuts, walnuts, English, halves, raw",Nut and Seed Products,88.26,10.9096,1.206,2.235,142.4,2.995,365.1,423.5,14.5644,69.74,3.145,2.76,3.47,4.07,8.37,678.6643399999998
-2346395,"Nuts, pecans, halves, raw",Nut and Seed Products,54.83,12.6993,0.9065,2.371,102.9,2.28,252.7,360.3,9.9587,73.28,2.623,3.93,3.47,4.07,8.37,699.5964399999999
-2346396,"Oats, whole grain, rolled, old fashioned",Cereal Grains and Pasta,45.53,68.65755,0.4278,4.339,126.3,3.234,387.3,350.1,13.49645,5.89,10.25,2.744,3.46,4.12,8.37,378.866123
-2346397,"Oats, whole grain, steel cut",Cereal Grains and Pasta,51.34,69.75082,0.4113,3.801,128.6,3.414,417.3,375.9,12.51118,5.8,10.14,2.843,3.46,4.12,8.37,379.20806120000003
-2346398,"Pineapple, raw",Fruits and Fruit Juices,12.5,14.0914625,0.09545,0.054,13.38,0.866,5.42,137.1,0.4609375,0.2113,84.99,0.1067,3.36,3.6,8.37,54.046596
-2346399,"Cherries, sweet, dark red, raw",Fruits and Fruit Juices,12.26,16.163125,0.06925,0.1054,12.11,0.07336,23.25,229.6,1.039375,0.1925,82.18,0.06446,3.36,3.6,8.37,63.290775000000004
-2346400,"Beans, snap, green, raw",Vegetables and Vegetable Products,40.05,7.41245,0.09829,0.6516,28.21,0.3324,41.15,290.4,1.96875,0.275,89.66,0.3498,2.44,3.57,8.37,33.5679465
-2346401,"Potatoes, russet, without skin, raw",Vegetables and Vegetable Products,7.801,17.77125,0.09118,0.3835,25.64,0.152,55.19,450.1,2.27375,0.36,78.61,0.3781,2.78,4.03,8.37,80.9523625
-2346402,"Potatoes, red, without skin, raw",Vegetables and Vegetable Products,5.128,16.27,0.09124,0.3911,23.56,0.1648,55.65,472.0,2.0625,0.2475,80.47,0.3923,2.78,4.03,8.37,73.373425
-2346403,"Potatoes, gold, without skin, raw",Vegetables and Vegetable Products,5.943,15.9624,0.1304,0.3728,22.3,0.1598,56.95,445.8,1.8125,0.2638,81.07,0.3739,2.78,4.03,8.37,71.575228
-2346404,"Sweet potatoes, orange flesh, without skin, raw",Vegetables and Vegetable Products,22.33,17.327875,0.1866,0.398,19.14,0.4174,36.73,486.4,1.578125,0.375,79.54,0.3374,2.78,4.03,8.37,77.35727374999999
-2346405,"Celery, raw",Vegetables and Vegetable Products,46.28,3.3165125,0.0,0.0,10.93,0.076,21.6,265.2,0.4921875,0.1625,95.2,0.0929,2.44,3.7,8.37,14.832158750000001
-2346406,"Cucumber, with peel, raw",Vegetables and Vegetable Products,16.34,2.9525,0.06299,0.0,10.11,0.08488,23.23,169.6,0.625,0.1775,95.87,0.204,2.44,3.7,8.37,13.934925000000002
-2346407,"Cabbage, green, raw",Vegetables and Vegetable Products,41.84,6.38375,0.0,0.06625,13.86,0.2479,26.93,207.1,0.96125,0.2275,91.87,0.2112,2.44,3.7,8.37,27.8695
-2346408,"Cabbage, red, raw",Vegetables and Vegetable Products,30.99,6.7899,0.0035,0.0,13.3,0.3094,35.84,269.1,1.2425,0.2138,91.14,0.245,2.44,3.7,8.37,29.943836
-2346409,"Strawberries, raw",Fruits and Fruit Juices,16.9,7.964375,0.03471,0.255,12.52,0.3675,22.98,160.7,0.640625,0.22,90.83,0.114,3.36,3.6,8.37,32.66565
-2346410,"Raspberries, raw",Fruits and Fruit Juices,16.41,12.904375,0.05289,0.4501,19.15,0.4935,27.47,155.8,1.008125,0.1875,85.55,0.2213,3.36,3.6,8.37,51.412425000000006
-2346411,"Blueberries, raw",Fruits and Fruit Juices,11.69,14.571775,0.04605,0.3398,6.179,0.4228,12.96,85.64,0.703125,0.3063,84.19,0.08534,3.36,3.6,8.37,57.384620999999996
-2346412,"Grapes, red, seedless, raw",Fruits and Fruit Juices,10.17,20.196825,0.08081,0.1615,8.556,0.09758,24.86,229.4,0.914375,0.1638,78.19,0.03603,3.36,3.6,8.37,77.151876
-2346413,"Grapes, green, seedless, raw",Fruits and Fruit Juices,9.897,18.60375,0.06091,0.1991,7.118,0.08365,21.98,218.1,0.89875,0.2325,79.88,0.02674,3.36,3.6,8.37,71.93932500000001
-2346414,"Applesauce, unsweetened, with added vitamin C",Fruits and Fruit Juices,3.821,12.2615625,0.03905,0.04475,3.938,0.0368,9.119,107.7,0.2734375,0.1625,87.1,0.002625,3.36,3.6,8.37,46.420500000000004
-2512371,"Flour, amaranth",Cereal Grains and Pasta,135.2,68.7787,0.5179,7.56,232.7,2.305,424.9,395.8,13.2093,6.236,9.486,3.001,3.47,4.07,8.37,377.96090000000004
-2512372,"Flour, quinoa",Cereal Grains and Pasta,37.56,69.52465,0.4819,4.528,163.8,2.015,369.3,550.9,11.92235,6.601,9.951,2.77,3.37,4.07,8.37,378.39401499999997
-2512373,"Flour, sorghum",Cereal Grains and Pasta,11.41,77.39123,0.2368,3.721,116.4,1.078,261.9,335.1,8.27277,3.586,9.414,1.66,2.28,4.07,8.37,363.8590417
-2512374,"Flour, buckwheat",Cereal Grains and Pasta,30.55,75.01808,0.5299,3.84,167.4,1.544,281.9,378.1,8.88492,2.484,12.04,1.755,3.37,3.78,8.37,334.30160279999996
-2512375,"Flour, rye",Cereal Grains and Pasta,32.24,77.1618,0.3384,2.536,95.39,2.129,280.3,434.0,8.3952,1.908,11.13,2.328,3.23,3.99,8.37,350.962038
-2512376,"Flour, barley",Cereal Grains and Pasta,35.56,77.39832,0.3936,3.301,88.04,1.181,234.4,366.6,8.72168,2.45,9.899,2.144,3.55,3.95,8.37,357.19182800000004
-2512377,"Flour, cassava",Vegetables and Vegetable Products,74.55,87.312975,0.07663,3.988,33.56,0.3954,39.24,197.6,0.918225,0.4938,10.56,0.4099,2.78,4.03,8.37,358.55706075
-2512378,"Buckwheat, whole grain",Cereal Grains and Pasta,13.64,71.13066,0.4764,2.444,203.0,1.23,373.7,414.5,11.06534,3.039,12.95,2.236,3.37,3.78,8.37,331.6005206
-2512379,"Millet, whole grain",Cereal Grains and Pasta,9.105,74.44623,0.4883,2.534,105.5,0.9239,257.9,214.1,10.02177,4.194,10.21,2.258,3.87,4.12,8.37,380.6064975
-2512380,"Rice, brown, long grain, unenriched, raw",Cereal Grains and Pasta,8.058,76.68795,0.2659,1.242,115.0,2.696,302.8,250.1,7.25305,3.306,11.47,1.854,3.41,4.12,8.37,368.3584745
-2512381,"Rice, white, long grain, unenriched, raw",Cereal Grains and Pasta,4.46,80.31315,0.2138,0.1405,26.53,0.9811,108.2,82.26,7.03885,1.033,11.19,1.354,3.82,4.16,8.37,369.63732099999993
-2514743,"Beef, ground, 90% lean meat / 10% fat, raw",Beef Products,7.135,0.0,0.05616,2.128,16.49,0.0,148.0,281.4,18.15625,12.85,69.0,4.194,4.27,3.87,9.02,193.4341875
-2514744,"Beef, ground, 80% lean meat / 20% fat, raw",Beef Products,6.889,0.0,0.0551,1.965,16.41,0.0,144.4,273.3,17.53125,19.44,62.82,3.848,4.27,3.87,9.02,250.20723750000002
-2514745,"Pork, ground, raw",Pork Products,5.857,0.0,0.0666,0.7876,19.03,0.0,173.3,317.7,17.80625,17.49,63.87,2.226,4.27,3.87,9.02,233.79248749999996
-2514746,"Chicken, ground, with additives, raw",Poultry Products,5.819,0.0,0.03619,0.5926,20.51,0.005025,165.5,301.7,17.9125,7.161,74.72,1.177,4.27,3.87,9.02,141.078595
-2514747,"Turkey, ground, 93% lean/ 7% fat, raw",Poultry Products,23.63,0.0,0.07624,1.087,17.3,0.01581,162.0,246.3,17.34375,9.591,72.89,2.95,4.27,3.87,9.02,160.56863249999998
-2515373,"Nuts, brazilnuts, raw",Nut and Seed Products,167.8,21.64216,1.739,2.474,351.3,1.26,706.9,592.5,15.03684,57.43,2.265,3.824,3.47,4.07,8.37,620.950526
-2515374,"Nuts, cashew nuts, raw",Nut and Seed Products,41.95,36.2887,2.218,5.988,250.6,1.949,532.2,638.3,17.4423,38.86,4.811,5.071,3.47,4.07,8.37,533.47799
-2515375,"Nuts, hazelnuts or filberts, raw",Nut and Seed Products,134.7,26.5012,1.413,3.465,155.8,6.059,321.1,635.9,13.4938,53.49,4.309,2.334,3.47,4.07,8.37,602.39467
-2515376,"Peanuts, raw",Legumes and Legume Products,49.13,26.498,0.4595,1.554,179.7,1.68,380.4,635.6,23.205,43.28,4.816,2.78,3.47,4.07,8.37,550.62181
-2515377,"Flour, chestnut",Nut and Seed Products,55.81,80.45025,0.581,1.621,68.75,2.901,134.2,1032.0,5.28675,4.636,7.326,1.038,3.47,4.07,8.37,384.58086000000003
-2515378,"Nuts, macadamia nuts, raw",Nut and Seed Products,52.71,24.0943,0.4455,1.881,106.8,11.3,208.4,372.6,7.7857,64.93,1.829,1.2,3.47,4.07,8.37,668.5442800000001
-2515379,"Nuts, pistachio nuts, raw",Nut and Seed Products,117.4,27.6943,1.054,3.456,109.7,1.05,499.6,947.0,20.5057,45.02,3.95,2.176,3.47,4.07,8.37,560.6879799999999
-2515380,"Seeds, pumpkin seeds (pepitas), raw",Nut and Seed Products,37.38,18.6751,1.225,8.363,499.7,4.121,1150.0,691.2,29.9079,40.03,6.621,6.341,3.47,4.07,8.37,514.83917
-2515381,"Seeds, sunflower seed, kernel, raw",Nut and Seed Products,115.6,24.5007,1.875,4.37,301.9,2.63,732.0,656.8,18.8733,48.44,4.873,5.578,3.47,4.07,8.37,570.651
-2515382,"Flour, coconut",Nut and Seed Products,35.98,58.9025,2.081,8.018,247.7,5.293,507.2,2088.0,16.1385,15.28,4.69,3.698,3.47,4.07,8.37,423.62737000000004
-2644281,"Beans, cannellini, dry",Legumes and Legume Products,142.9,59.7955,0.7419,6.673,153.6,1.784,412.3,1424.0,21.5625,2.199,12.3,2.72,3.47,4.07,8.37,336.59519
-2644282,"Chickpeas, (garbanzo beans, bengal gram), dry",Legumes and Legume Products,111.1,60.358,0.8041,5.094,134.8,3.581,353.1,1074.0,21.275,6.274,8.774,3.124,3.47,4.07,8.37,371.99469
-2644283,"Lentils, dry",Legumes and Legume Products,61.85,62.17125,0.8376,7.158,106.7,1.569,373.6,948.9,23.56875,1.925,9.451,3.863,3.47,4.07,8.37,350.93280000000004
-2644284,"Blackeye pea, dry",Legumes and Legume Products,71.4,61.836,0.9359,5.93,183.9,1.288,427.6,1243.0,21.225,2.419,11.01,3.654,3.47,4.07,8.37,345.57030000000003
-2644285,"Beans, black, canned, sodium added, drained and rinsed",Legumes and Legume Products,43.31,19.8135,0.3359,1.688,32.54,0.3324,90.95,253.1,6.9125,1.273,70.79,0.7399,3.47,4.07,8.37,115.28233000000002
-2644286,"Beans, navy, canned, sodium added, drained and rinsed",Legumes and Legume Products,63.91,19.98325,0.29,1.599,29.56,0.3771,86.71,183.7,6.56875,1.398,70.96,0.6313,3.47,4.07,8.37,115.82665
-2644287,"Beans, cannellini, canned, sodium added, drained and rinsed",Legumes and Legume Products,69.19,18.8185,0.2193,1.405,29.29,0.3686,94.74,202.6,7.4125,1.169,71.53,0.5155,3.47,4.07,8.37,112.0972
-2644288,"Chickpeas (garbanzo beans, bengal gram), canned, sodium added, drained and rinsed",Legumes and Legume Products,40.48,20.32025,0.2674,1.042,28.41,0.7448,86.48,136.8,7.01875,3.096,68.59,0.7243,3.47,4.07,8.37,132.972
-2644289,"Beans, kidney, dark red, canned, sodium added, sugar added, drained and rinsed",Legumes and Legume Products,56.94,21.03,0.273,1.439,29.31,0.3285,104.1,226.9,7.8,1.256,68.82,0.56,3.47,4.07,8.37,123.17082000000002
-2644290,"Beans, kidney, light red, canned, sodium added, sugar added, drained and rinsed",Legumes and Legume Products,60.25,21.44675,0.2713,1.305,25.49,0.3453,93.56,209.4,7.30625,1.299,68.93,0.526,3.47,4.07,8.37,123.51359000000002
-2644291,"Peas, green, sweet, canned, sodium added, sugar added, drained and rinsed",Vegetables and Vegetable Products,28.21,12.707625,0.1233,1.139,21.91,0.2849,77.74,109.2,4.734375,1.153,80.53,0.712,3.47,4.07,8.37,77.79892500000001
-2644292,"Beans, pinto, canned, sodium added, drained and rinsed",Legumes and Legume Products,55.23,19.60025,0.2546,1.284,27.49,0.3168,83.11,209.6,6.69375,1.266,71.33,0.6248,3.47,4.07,8.37,113.59675
-2644293,"Blackeye pea, canned, sodium added, drained and rinsed",Legumes and Legume Products,27.78,19.1659,0.2846,1.084,27.26,0.2224,83.03,138.1,6.925,1.296,71.62,0.655,3.47,4.07,8.37,112.88248300000001
-2644294,"Beans, great northern, canned, sodium added, drained and rinsed",Legumes and Legume Products,67.16,19.32875,0.2558,1.382,29.3,0.4628,88.61,213.1,7.03125,1.266,71.16,0.6349,3.47,4.07,8.37,113.66287
-2646168,"Pork, loin, boneless, raw",Pork Products,4.111,0.0,0.0382,0.4519,21.96,0.0,196.8,361.2,21.11875,9.469,68.82,1.57,4.27,3.87,9.02,175.58744249999998
-2646169,"Pork, loin, tenderloin, boneless, raw",Pork Products,4.528,0.0,0.07724,0.9293,24.66,0.002588,217.4,397.4,21.58125,3.899,73.93,1.773,4.27,3.87,9.02,127.32091749999998
-2646170,"Chicken, breast, boneless, skinless, raw",Poultry Products,3.939,0.0,0.003638,0.3543,26.2,0.0,214.9,330.1,22.525,1.934,74.78,0.6545,4.27,3.87,9.02,113.62642999999997
-2646171,"Chicken, thigh, boneless, skinless, raw",Poultry Products,5.65,0.0,0.04235,0.6018,21.8,0.0,178.3,271.8,18.6125,7.916,72.92,1.348,4.27,3.87,9.02,150.87769500000002
-2646172,"Beef, ribeye, steak, boneless, choice, raw",Beef Products,4.173,0.0,0.04263,1.641,16.68,0.0,149.7,288.0,18.74375,20.04,60.63,4.063,4.27,3.87,9.02,260.7966125
-2646173,"Beef, round, top round, boneless, choice, raw",Beef Products,4.07,0.852,0.05515,1.901,22.08,0.002875,192.3,351.5,21.475,5.703,70.88,3.778,4.27,3.87,9.02,146.43655
-2646174,"Beef, chuck, roast, boneless, choice, raw",Beef Products,4.576,0.0,0.05405,2.059,16.99,0.0,151.0,281.1,18.4,17.8,63.43,5.386,4.27,3.87,9.02,239.124
-2646175,"Beef, flank, steak, boneless, choice, raw",Beef Products,3.836,0.0,0.04471,1.834,18.86,0.001688,167.3,331.8,20.13125,9.399,69.78,5.563,4.27,3.87,9.02,170.7394175
-2647437,"Yogurt, plain, nonfat",Dairy and Egg Products,167.4,8.07675,0.0,0.0,15.21,0.0,127.0,210.5,4.22675,0.0875,86.57,0.5989,4.27,3.87,8.79,50.07437
-2647438,"Cheese, monterey jack, solid",Dairy and Egg Products,714.6,1.8979,0.0,0.0,29.6,0.01113,470.9,82.94,22.6171,32.63,39.18,3.785,4.27,3.87,8.79,390.73758999999995
-2647439,"Cheese, pasteurized process cheese food or product, American, singles",Dairy and Egg Products,1498.0,8.1898,0.0,1.303,34.6,0.06518,880.0,211.8,15.5672,23.86,44.78,2.379,4.27,3.87,8.79,307.89586999999995
-2647440,"Cheese, provolone, sliced",Dairy and Egg Products,748.8,2.45312,0.0,0.0,29.5,0.02996,494.1,94.84,23.45288,28.13,42.34,3.89,4.27,3.87,8.79,356.90007199999997
-2647441,"Cheese, oaxaca, solid",Dairy and Egg Products,532.3,2.40202,0.0,0.0,21.58,0.02061,380.4,80.73,22.14498,22.1,49.8,3.506,4.27,3.87,8.79,298.113882
-2647442,"Cheese, queso fresco, solid",Dairy and Egg Products,601.8,2.9572,0.0,0.0,27.64,0.0,389.8,126.4,18.8848,23.36,51.38,2.908,4.27,3.87,8.79,297.41686
-2647443,"Cheese, cotija, solid",Dairy and Egg Products,699.6,2.72432,0.0,0.0,29.9,0.01704,485.5,116.7,23.83568,27.24,40.0,3.597,4.27,3.87,8.79,351.76107199999996
-2684440,"Fish, salmon, sockeye, wild caught, raw",Finfish and Shellfish Products,14.84,0.0,0.0616,0.4024,26.15,0.0,226.3,329.7,22.3,4.936,72.51,0.4246,4.27,3.87,9.02,139.74372
-2684441,"Fish, salmon, Atlantic, farm raised, raw",Finfish and Shellfish Products,9.423,0.0,0.02469,0.2588,25.39,0.0,230.3,378.2,20.31875,13.11,65.84,0.3394,4.27,3.87,9.02,205.0132625
-2684442,"Fish, tilapia, farm raised, raw",Finfish and Shellfish Products,8.628,0.0,0.0,0.0,24.28,0.005325,159.4,342.4,19.0,2.479,78.28,0.2995,4.27,3.87,9.02,103.49058
-2684443,"Crustaceans, shrimp, farm raised, raw",Finfish and Shellfish Products,64.63,0.48495,0.2084,0.5223,22.53,0.02866,190.6,145.9,15.56875,0.8013,81.28,0.9368,4.27,4.11,9.02,75.699433
-2684444,"Fish, cod, Atlantic, wild caught, raw",Finfish and Shellfish Products,6.59,0.0,0.003963,0.065,17.98,0.0,224.1,245.1,16.06875,0.6675,82.86,0.3051,4.27,3.87,9.02,74.6344125
-2684445,"Fish, catfish, farm raised, raw",Finfish and Shellfish Products,7.796,0.0,0.0,0.0,20.63,0.00165,166.2,292.3,16.46875,7.308,75.89,0.4749,4.27,3.87,9.02,136.2397225
-2684446,"Crustaceans, crab, blue swimming, lump, pasteurized, refrigerated",Finfish and Shellfish Products,110.9,0.0,1.088,0.6319,43.08,0.1478,278.5,234.8,18.65,0.8075,78.88,3.478,4.27,4.11,9.02,86.91914999999997
-2685568,"Squash, summer, green, zucchini, includes skin, raw",Vegetables and Vegetable Products,20.85,3.27,0.06384,0.1945,15.29,0.1489,32.9,225.8,0.984375,0.205,95.01,0.2605,2.44,3.57,8.37,15.791625
-2685569,"Squash, summer, yellow, includes skin, raw",Vegetables and Vegetable Products,22.69,4.39,0.06078,0.1369,16.84,0.2398,30.74,220.5,0.890625,0.135,94.05,0.203,2.44,3.57,8.37,18.975375
-2685570,"Squash, winter, butternut, raw",Vegetables and Vegetable Products,21.74,10.50745,0.0733,0.2129,14.95,0.07538,26.53,329.1,1.14875,0.1675,87.32,0.193,2.44,3.57,8.37,41.716521500000006
-2685571,"Squash, winter, acorn, raw",Vegetables and Vegetable Products,24.82,10.48,0.08685,0.3078,23.75,0.1871,42.04,332.1,1.25,0.1825,87.22,0.2935,2.44,3.57,8.37,41.991125
-2685572,"Cabbage, bok choy, raw",Vegetables and Vegetable Products,61.93,3.51495,0.02758,0.4388,13.64,0.1962,30.51,227.8,1.02375,0.2338,94.54,0.2738,2.44,3.57,8.37,17.003227499999998
-2685573,"Cauliflower, raw",Vegetables and Vegetable Products,20.35,4.723075,0.02423,0.3338,14.2,0.141,39.69,274.4,1.640625,0.2375,92.72,0.2344,2.44,3.57,8.37,22.85237775
-2685574,"Collards, raw",Vegetables and Vegetable Products,276.4,7.02225,0.1112,0.7505,49.51,0.8716,45.01,409.8,2.96875,0.77,87.51,0.4594,2.44,3.57,8.37,38.75808249999999
-2685575,"Brussels sprouts, raw",Vegetables and Vegetable Products,38.64,9.615625,0.03843,0.7305,25.0,0.24,78.54,476.8,3.984375,0.565,84.62,0.3663,2.44,3.57,8.37,48.77870624999999
-2685576,"Beets, raw",Vegetables and Vegetable Products,13.82,8.787,0.1606,0.4281,21.01,0.2571,33.65,341.5,1.6875,0.3025,88.16,0.3104,2.78,3.84,8.37,40.965255
-2685577,"Eggplant, raw",Vegetables and Vegetable Products,11.06,5.399325,0.06078,0.0,13.54,0.1065,22.75,222.1,0.851875,0.12,93.11,0.1189,2.44,3.57,8.37,22.35856525
-2685578,"Tomatoes, whole, canned, solids and liquids, with salt added",Vegetables and Vegetable Products,19.83,4.2874,0.05938,0.9291,10.75,0.07515,17.31,202.9,0.8675,0.2063,93.93,0.1198,2.44,3.57,8.37,19.149449
-2685579,"Tomato, sauce, canned, with salt added",Vegetables and Vegetable Products,17.1,6.331625,0.08933,1.107,18.73,0.1314,29.2,355.5,1.351875,0.3825,90.21,0.183,2.44,3.57,8.37,29.10400125
-2685580,"Tomato, paste, canned, without salt added",Vegetables and Vegetable Products,36.85,20.188125,0.295,3.185,49.61,0.3315,91.16,971.6,4.234375,0.7325,71.93,0.5113,2.44,3.57,8.37,88.53450624999998
-2685581,"Tomatoes, crushed, canned",Vegetables and Vegetable Products,19.2,7.137,0.1043,2.268,18.64,0.1529,32.91,345.6,1.4375,0.3975,89.94,0.2014,2.44,3.57,8.37,32.31366499999999
-2685582,"Tomato, puree, canned",Vegetables and Vegetable Products,17.64,8.036875,0.1227,1.237,19.33,0.1396,34.14,416.4,1.578125,0.265,89.11,0.2084,2.44,3.57,8.37,34.760318749999996
-2710815,"Apricot, with skin, raw",Fruits and Fruit Juices,11.59,10.23875,0.05614,0.1634,8.883,0.05361,22.51,231.4,0.96125,0.405,87.88,0.1483,3.36,3.6,8.37,43.47915
-2710816,"Melons, honeydew, raw",Fruits and Fruit Juices,6.579,8.14995,0.009075,0.0,9.504,0.03545,11.74,208.9,0.53125,0.2163,90.59,0.05999,3.36,3.6,8.37,32.935251
-2710817,"Plantains, ripe, raw",Fruits and Fruit Juices,3.825,30.95215,0.1002,0.3192,33.93,0.2048,30.12,395.6,1.15625,0.8933,66.06,0.1467,3.36,3.6,8.37,122.78966100000001
-2710818,"Plantains, underripe, raw",Fruits and Fruit Juices,4.832,33.587325,0.1094,0.3342,29.47,0.1532,27.9,406.3,1.229375,0.685,63.59,0.185,2.78,4.03,8.37,144.50803225
-2710819,"Chia seeds, dry, raw",Cereal Grains and Pasta,595.4,38.273,1.566,6.043,326.3,7.558,691.3,642.1,17.013,32.89,7.451,5.556,3.47,4.07,8.37,490.09551999999996
-2710820,"Bulgur, dry, raw",Cereal Grains and Pasta,34.11,75.88175,0.3774,2.625,118.9,2.636,312.1,358.3,11.75625,2.421,8.485,2.149,3.59,3.78,8.37,349.3017225
-2710821,"Wild rice, dry, raw",Cereal Grains and Pasta,7.973,75.6695,0.487,1.53,108.5,1.315,354.9,298.8,12.7875,1.704,8.428,5.845,3.55,3.95,8.37,358.55262999999997
-2710822,"Arugula, baby, raw",Vegetables and Vegetable Products,203.7,5.36825,0.08273,1.393,42.65,0.514,51.19,406.8,1.64875,0.325,90.94,0.3483,2.44,3.57,8.37,25.907852499999997
-2710823,"Asparagus, green, raw",Vegetables and Vegetable Products,20.58,5.1012,0.1315,0.4436,13.78,0.1455,53.9,277.5,1.4375,0.2163,92.57,0.5955,2.44,3.57,8.37,23.529215
-2710824,"Avocado, Hass, peeled, raw",Fruits and Fruit Juices,14.46,8.3235,0.2849,0.6133,32.8,0.1966,42.38,576.4,1.8125,20.31,67.0,0.4596,3.36,3.6,8.37,206.04929999999996
-2710825,"Rice, black, unenriched, raw",Cereal Grains and Pasta,14.4,77.18825,0.2095,1.116,113.4,3.906,306.7,255.6,7.56875,3.438,10.46,1.716,3.55,3.95,8.37,360.53871
-2710826,"Corn, sweet, yellow and white kernels,  fresh, raw",Vegetables and Vegetable Products,0.6563,14.689625,0.0563,0.3875,25.76,0.1898,75.46,237.0,2.789375,1.626,80.25,0.5564,2.44,3.57,8.37,72.85765624999999
-2710827,"Einkorn, grain, dry, raw",Cereal Grains and Pasta,41.41,68.65381,0.5488,3.69,140.4,4.203,435.8,431.8,15.11719,3.811,10.53,5.231,3.59,3.78,8.37,345.68018390000003
-2710828,"Farro, pearled, dry, raw",Cereal Grains and Pasta,25.94,72.13156,0.4703,3.195,118.8,2.595,367.5,385.4,12.63944,3.103,10.47,3.968,3.59,3.78,8.37,344.0049964
-2710829,"Fonio, grain, dry, raw",Cereal Grains and Pasta,11.65,81.30525,0.3603,2.663,39.1,0.4183,93.24,43.79,7.16875,1.693,9.373,1.849,3.87,4.12,8.37,376.89110250000004
-2710830,"Khorasan, grain, dry, raw",Cereal Grains and Pasta,24.08,71.79427,0.5939,3.874,130.1,3.26,370.8,450.5,14.75573,2.8,8.901,4.46,3.59,3.78,8.37,347.79141129999994
-2710831,"Kiwifruit (kiwi), green, peeled, raw",Fruits and Fruit Juices,24.38,13.818075,0.1283,0.03663,14.79,0.0683,27.61,301.5,1.008125,0.64,83.83,0.4547,3.36,3.6,8.37,58.48917000000001
-2710832,"Mandarin, seedless, peeled, raw",Fruits and Fruit Juices,43.96,13.421825,0.04271,0.0,12.59,0.05009,19.71,167.2,1.039375,0.4575,84.65,0.06869,3.36,3.6,8.37,55.640145000000004
-2710833,"Mango, Tommy Atkins, peeled, raw",Fruits and Fruit Juices,12.4,15.265,0.0907,0.0,10.26,0.1061,16.45,165.0,0.5625,0.5725,83.2,0.0664,3.36,3.6,8.37,61.635825
-2710834,"Mango, Ataulfo, peeled, raw",Fruits and Fruit Juices,10.02,17.3962,0.1031,0.0,10.57,0.1045,17.74,204.4,0.6875,0.6813,80.79,0.102,3.36,3.6,8.37,70.638801
-2710835,"Corn flour, masa harina, white or yellow, dry, raw",Cereal Grains and Pasta,111.6,76.6895,0.1295,1.698,93.3,0.4133,241.1,276.6,7.5625,4.34,10.08,1.617,2.73,4.03,8.37,366.03011000000004
-2710836,"Pear, Anjou, green, with skin, raw",Fruits and Fruit Juices,9.986,14.7674,0.08145,0.0,6.494,0.05434,12.3,122.5,0.3125,0.3713,84.27,0.1074,3.36,3.6,8.37,57.320421
-2710837,"Plum, black, with skin, raw",Fruits and Fruit Juices,4.031,13.455575,0.05413,0.0,6.615,0.04039,18.63,186.3,0.578125,0.2825,84.94,0.04518,3.36,3.6,8.37,52.747095
-2710838,"Rice, red, unenriched, dry, raw",Cereal Grains and Pasta,9.224,76.1545,0.269,1.198,125.5,2.629,313.9,245.1,8.5625,3.44,10.51,2.563,3.55,3.95,8.37,359.99995
-2710839,"Sorghum bran, white, unenriched, dry, raw",Cereal Grains and Pasta,61.66,68.69525,0.8408,14.21,273.5,3.806,517.1,851.5,11.16875,9.259,7.424,4.4,0.91,4.03,8.37,364.50325
-2710840,"Sorghum flour, white, pearled, unenriched, dry, raw",Cereal Grains and Pasta,7.894,73.5065,0.2138,2.225,107.0,1.178,245.8,273.9,10.2125,3.238,11.87,1.318,2.28,4.07,8.37,349.558015
-2710841,"Sorghum grain, white, pearled, unenriched, dry, raw",Cereal Grains and Pasta,7.45,74.872,0.2084,2.036,108.9,1.178,243.4,273.9,10.25,3.265,10.45,1.276,0.91,4.03,8.37,338.38971000000004
-2710842,"Sorghum, whole grain, white, dry, raw",Cereal Grains and Pasta,14.93,73.57375,0.2995,3.895,136.0,1.545,294.1,367.1,10.08125,4.219,10.62,1.769,0.91,4.03,8.37,340.98918000000003
-2710843,"Plantains, overripe, raw",Fruits and Fruit Juices,3.9,29.191425,0.1028,0.3148,31.73,0.2111,28.92,408.2,1.166875,0.99,67.71,0.1492,3.36,3.6,8.37,117.29612999999999
-2727566,"Chicken, drumstick, meat and skin, raw",Poultry Products,8.285,-0.47505,0.04426,0.6658,18.55,0.00655,152.5,244.1,18.35625,5.94,75.29,1.7,4.27,3.87,9.02,130.121544
-2727567,"Chicken, thigh, meat and skin, raw",Poultry Products,5.726,-0.17255,0.03935,0.5861,18.51,0.0032,153.6,246.0,17.10625,13.35,68.87,1.2,4.27,3.87,9.02,192.79291899999998
-2727568,"Chicken, wing, meat and skin, raw",Poultry Products,13.55,-0.45875,0.01053,0.5111,16.53,0.003188,132.8,194.0,18.40625,10.64,70.66,1.179,4.27,3.87,9.02,172.792125
-2727569,"Chicken, breast, meat and skin, raw",Poultry Products,6.898,-0.42825,0.00415,0.3535,25.4,0.002067,203.6,332.5,21.40625,4.777,73.2,0.6245,4.27,3.87,9.02,132.8359
-2727570,"Lamb, ground, raw","Lamb, Veal, and Game Products",6.575,-0.2508,0.08482,1.643,17.48,0.004283,155.8,272.1,17.4625,18.64,63.29,3.13,4.27,3.87,9.02,241.727079
-2727571,"Bison, ground, raw","Lamb, Veal, and Game Products",6.827,-0.14955,0.07822,2.168,18.47,0.002067,165.6,301.1,19.88125,8.88,70.44,3.763,4.27,3.87,9.02,164.411779
-2727572,"Beef, short loin (NY strip steak), raw",Beef Products,5.043,0.2212,0.04304,1.608,19.5,0.001563,171.4,323.0,21.325,11.54,65.95,3.284,4.27,3.87,9.02,196.00459399999997
-2727573,"Beef, tenderloin steak, raw",Beef Products,4.089,0.18025,0.1046,2.53,21.98,0.004775,189.7,344.7,21.09375,6.456,71.21,3.225,4.27,3.87,9.02,149.00099999999998
-2727574,"Beef, top sirloin steak, raw",Beef Products,3.701,0.218,0.07023,2.224,22.08,0.001563,193.1,349.4,21.975,5.708,71.01,3.453,4.27,3.87,9.02,146.16307
-2727575,"Pork, chop, center cut, raw",Pork Products,4.124,-0.5625,0.0335,0.4213,23.44,0.001575,202.3,366.5,22.8125,5.475,71.18,1.325,4.27,3.87,9.02,144.617
-2727576,"Pork, belly, with skin, raw",Pork Products,4.205,-0.705,0.0331,0.3817,12.18,0.002083,113.9,207.9,15.2,35.83,49.02,1.067,4.27,3.87,9.02,385.36224999999996
+fdc_id,description,food_category,"Calcium, Ca","Carbohydrate, by difference","Copper, Cu","Iron, Fe","Magnesium, Mg","Manganese, Mn","Phosphorus, P","Potassium, K",Protein,Total lipid (fat),Water,"Zinc, Zn",calculated_energy
+321358,"Hummus, commercial",Legumes and Legume Products,41.0,14.9,0.348,2.41,71.1,1.06,166.0,289.0,7.35,17.1,58.7,1.38,229.27450000000002
+321359,"Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D",Dairy and Egg Products,126.0,4.91,0.001,0.0,12.0,0.001,103.0,159.0,3.35,1.9,89.1,0.43,50.0072
+321360,"Tomatoes, grape, raw",Vegetables and Vegetable Products,11.0,5.51,0.058,0.33,11.9,0.121,28.0,260.0,0.83,0.63,92.5,0.2,26.969
+321611,"Beans, snap, green, canned, regular pack, drained solids",Vegetables and Vegetable Products,36.0,4.11,0.041,0.78,12.7,0.176,23.0,97.0,1.04,0.39,93.6,0.19,20.4746
+321900,"Broccoli, raw",Vegetables and Vegetable Products,46.0,6.29,0.059,0.69,21.0,0.197,67.0,303.0,2.57,0.34,90.0,0.42,31.571899999999996
+322228,"Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D",Dairy and Egg Products,126.0,5.19,0.001,0.0,12.0,0.0,103.0,159.0,3.38,0.95,89.7,0.43,42.8684
+322559,"Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)",Dairy and Egg Products,132.0,4.89,0.002,0.0,12.5,0.001,107.0,167.0,3.43,0.08,90.8,0.45,34.2736
+322892,"Milk, whole, 3.25% milkfat, with added vitamin D",Dairy and Egg Products,123.0,4.67,0.001,0.0,11.9,0.0,101.0,150.0,3.28,3.2,88.1,0.41,60.2065
+323121,"Frankfurter, beef, unheated",Sausages and Luncheon Meats,15.0,2.89,0.046,1.14,11.5,0.031,128.0,343.0,11.7,28.0,54.6,2.06,313.7033
+323294,"Nuts, almonds, dry roasted, with salt added",Nut and Seed Products,273.0,16.2,0.87,3.17,258.0,2.02,456.0,684.0,20.4,57.8,2.2,2.8,620.5079999999999
+323444,"Cheese, ricotta, whole milk",Dairy and Egg Products,224.0,6.86,0.0,0.1,19.7,0.0,162.0,230.0,7.81,11.0,72.9,0.56,156.58689999999999
+323505,"Kale, raw",Vegetables and Vegetable Products,254.0,4.42,0.053,1.6,32.7,0.92,55.0,348.0,2.92,1.49,89.6,0.39,35.3755
+323604,"Egg, whole, raw, frozen, pasteurized",Dairy and Egg Products,55.0,0.91,0.0,1.77,11.2,0.0,189.0,117.0,12.3,10.3,75.4,1.2,149.8828
+323697,"Egg, white, raw, frozen, pasteurized",Dairy and Egg Products,9.0,0.74,0.0,0.18,10.6,0.0,0.0,130.0,10.1,0.16,88.3,0.02,48.2024
+323793,"Egg, white, dried",Dairy and Egg Products,104.0,6.02,0.0,0.0,87.6,0.0,107.0,959.0,79.9,0.65,7.98,0.43,376.3806
+324038,"Sauce, salsa, ready-to-serve","Soups, Sauces, and Gravies",28.0,6.74,0.065,0.42,15.2,0.11,32.0,258.0,1.44,0.19,89.3,0.2,29.2607
+324157,"Sausage, breakfast sausage, beef, pre-cooked, unprepared",Sausages and Luncheon Meats,35.0,3.37,0.075,1.55,19.7,0.174,124.0,263.0,13.3,28.7,51.7,2.14,328.70689999999996
+324317,"Onion rings, breaded, par fried, frozen, prepared, heated in oven",Vegetables and Vegetable Products,28.0,36.3,0.081,1.14,20.4,0.435,75.0,135.0,4.52,14.4,43.4,0.59,288.644
+324653,"Pickles, cucumber, dill or kosher dill",Vegetables and Vegetable Products,54.0,1.99,0.026,0.23,7.1,0.056,16.0,112.0,0.48,0.43,94.7,0.11,11.8746
+324860,"Peanut butter, smooth style, with salt",Legumes and Legume Products,49.0,22.3,0.42,1.73,169.0,1.68,339.0,564.0,22.5,51.1,1.18,2.54,596.543
+325036,"Cheese, parmesan, grated",Dairy and Egg Products,884.0,12.4,0.04,0.45,34.9,0.066,634.0,184.0,29.6,28.0,22.8,4.33,420.5
+325198,"Cheese, pasteurized process, American, vitamin D fortified",Dairy and Egg Products,866.0,5.27,0.046,0.48,25.1,0.038,540.0,149.0,18.0,30.6,39.6,2.42,366.22889999999995
+325287,"Grapefruit juice, white, canned or bottled, unsweetened",Fruits and Fruit Juices,16.0,7.59,0.032,0.07,9.6,0.02,17.0,141.0,0.55,0.7,90.9,0.04,37.4598
+325430,"Peaches, yellow, raw",Fruits and Fruit Juices,4.0,10.1,0.078,0.34,8.0,0.026,22.0,122.0,0.91,0.27,88.3,0.23,41.6775
+325524,"Seeds, sunflower seed kernels, dry roasted, with salt added",Nut and Seed Products,78.0,17.1,1.83,5.21,358.0,2.89,750.0,689.0,21.0,56.1,1.5,6.0,612.024
+325658,"Sausage, Italian, pork, mild, cooked, pan-fried",Sausages and Luncheon Meats,12.0,2.15,0.074,1.29,18.6,0.033,145.0,310.0,18.2,26.2,50.9,2.41,322.35849999999994
+325871,"Bread, white, commercially prepared",Baked Products,211.0,49.2,0.124,3.36,26.9,0.632,113.0,117.0,9.43,3.59,35.7,0.88,269.73
+325992,"Sausage, turkey, breakfast links, mild, raw",Sausages and Luncheon Meats,32.0,0.93,0.07,1.17,18.9,0.035,178.0,310.0,16.7,10.4,69.6,2.58,168.71609999999998
+326135,"Cheese, swiss",Dairy and Egg Products,890.0,1.44,0.047,0.13,33.4,0.027,574.0,71.0,27.0,31.0,37.6,4.37,393.35279999999995
+326196,"Kale, frozen, cooked, boiled, drained, without salt",Vegetables and Vegetable Products,150.0,5.3,0.067,0.84,25.0,0.542,42.0,144.0,2.94,1.21,89.8,0.27,36.2223
+326458,"Carrots, frozen, unprepared (Includes foods for USDA's Food Distribution Program)",Vegetables and Vegetable Products,33.0,7.92,0.08,0.43,10.8,0.143,31.0,210.0,0.81,0.47,90.1,0.28,36.5985
+326698,"Mustard, prepared, yellow",Spices and Herbs,63.0,5.3,0.074,1.59,47.7,0.42,108.0,150.0,4.25,3.38,83.7,0.64,60.7401
+326905,"Figs, dried, uncooked",Fruits and Fruit Juices,162.0,63.9,0.287,2.03,67.6,0.51,67.0,680.0,3.3,0.92,30.0,0.66,248.8284
+327046,"Kiwifruit, green, raw",Fruits and Fruit Juices,35.0,14.0,0.134,0.24,15.7,0.064,34.0,198.0,1.06,0.44,83.9,0.14,57.6444
+327198,"Melons, cantaloupe, raw",Fruits and Fruit Juices,9.0,8.16,0.085,0.38,13.0,0.046,17.0,157.0,0.82,0.18,90.2,0.44,33.6378
+327357,"Nectarines, raw",Fruits and Fruit Juices,2.0,9.18,0.082,0.3,8.8,0.047,26.0,131.0,1.06,0.28,89.0,0.21,38.9532
+327501,"Oranges, raw, navels (Includes foods for USDA's Food Distribution Program)",Fruits and Fruit Juices,43.0,11.8,0.064,0.33,10.7,0.029,23.0,166.0,0.91,0.15,86.7,0.11,46.7931
+327699,"Strawberries, raw",Fruits and Fruit Juices,12.0,7.63,0.119,0.28,11.8,0.28,20.0,89.0,0.64,0.22,91.1,0.18,31.4598
+327923,"Lettuce, cos or romaine, raw",Vegetables and Vegetable Products,35.0,3.24,0.048,0.95,13.7,0.127,30.0,253.0,1.24,0.26,94.7,0.25,16.7686
+328637,"Cheese, cheddar",Dairy and Egg Products,707.0,2.44,0.033,0.16,26.8,0.026,458.0,77.0,23.3,34.0,36.6,3.67,407.7938
+328841,"Cheese, cottage, lowfat, 2% milkfat",Dairy and Egg Products,103.0,4.31,0.03,0.13,8.9,0.015,148.0,120.0,11.0,2.3,81.1,0.61,83.8667
+329370,"Cheese, mozzarella, low moisture, part-skim",Dairy and Egg Products,693.0,4.44,0.035,0.2,27.2,0.035,533.0,116.0,23.7,20.4,47.7,3.62,297.6978
+329490,"Egg, whole, dried",Dairy and Egg Products,220.0,1.87,0.0,6.97,44.6,0.0,770.0,468.0,48.1,39.8,4.07,5.02,575.5935999999999
+329596,"Egg, yolk, raw, frozen, pasteurized",Dairy and Egg Products,119.0,0.59,0.0,4.13,11.2,0.068,443.0,102.0,15.6,25.1,56.1,2.93,296.5892
+329716,"Egg, yolk, dried",Dairy and Egg Products,270.0,1.07,0.0,9.28,26.0,0.0,982.0,231.0,34.2,55.5,3.64,7.11,653.6596
+329830,"Cheese, dry white, queso seco",Dairy and Egg Products,661.0,2.07,0.027,0.18,26.7,0.018,475.0,116.0,24.5,24.3,42.2,3.28,326.2229
+330137,"Yogurt, Greek, plain, nonfat",Dairy and Egg Products,111.0,3.64,0.017,0.07,10.7,0.009,136.0,141.0,10.3,0.37,85.0,0.53,61.320100000000004
+330415,"Yogurt, Greek, strawberry, nonfat",Dairy and Egg Products,97.0,12.2,0.02,0.09,10.4,0.034,113.0,133.0,8.06,0.15,79.0,0.46,82.9487
+330458,"Oil, coconut",Fats and Oils,1.0,0.84,0.0,0.05,0.0,0.0,0.0,0.0,0.0,99.1,0.03,0.02,832.8857999999999
+330869,"Turkey, ground, 93% lean, 7% fat, pan-broiled crumbles",Poultry Products,31.0,0.0,0.166,1.56,29.1,0.01,259.0,304.0,27.1,11.6,61.1,3.77,220.349
+331897,"Chicken, broilers or fryers, drumstick, meat only, cooked, braised",Poultry Products,12.0,0.0,0.063,0.94,22.4,0.018,184.0,239.0,23.9,5.95,69.9,2.54,155.72199999999998
+331960,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",Poultry Products,6.0,0.0,0.044,0.49,32.0,0.012,241.0,343.0,32.1,3.24,65.3,0.96,166.29179999999997
+332282,"Sauce, pasta, spaghetti/marinara, ready-to-serve","Soups, Sauces, and Gravies",27.0,8.05,0.081,0.78,18.5,0.137,34.0,319.0,1.41,1.48,87.4,0.2,44.5665
+332397,"Ham, sliced, pre-packaged, deli meat (96%fat free, water added)",Sausages and Luncheon Meats,5.0,0.27,0.05,0.58,18.8,0.0,261.0,425.0,16.7,3.73,75.7,1.52,105.99849999999998
+332597,"Pears, raw, bartlett (Includes foods for USDA's Food Distribution Program)",Fruits and Fruit Juices,8.0,15.1,0.07,0.17,5.7,0.032,10.0,87.0,0.38,0.16,84.1,0.07,56.976
+332791,"Olives, green, Manzanilla, stuffed with pimiento",Fruits and Fruit Juices,121.0,4.96,0.107,0.31,12.4,0.047,7.0,43.0,1.15,12.9,76.7,0.09,129.693
+332864,"Sausage, pork, chorizo, link or ground, cooked, pan-fried",Sausages and Luncheon Meats,37.0,2.63,0.13,2.34,30.1,0.188,207.0,435.0,19.3,28.1,46.3,2.19,346.0511
+333008,"Cookies, oatmeal, soft, with raisins",Baked Products,29.0,69.6,0.141,2.28,32.4,0.755,111.0,245.0,5.79,14.3,8.85,0.62,430.26
+333281,"Tomatoes, canned, red, ripe, diced",Vegetables and Vegetable Products,30.0,3.32,0.052,0.57,9.8,0.068,18.0,198.0,0.84,0.5,94.6,0.12,18.087
+333374,"Fish, haddock, raw",Finfish and Shellfish Products,11.0,0.0,0.021,0.17,21.1,0.011,227.0,286.0,16.3,0.45,83.4,0.32,73.66
+333476,"Fish, pollock, raw",Finfish and Shellfish Products,15.0,0.0,0.031,0.22,16.1,0.011,284.0,160.0,12.3,0.41,86.7,0.31,56.2192
+334194,"Fish, tuna, light, canned in water, drained solids",Finfish and Shellfish Products,18.0,0.08,0.048,1.67,22.7,0.019,137.0,176.0,19.0,0.94,79.0,0.66,89.91839999999999
+334247,"Sugars, granulated",Sweets,1.0,99.6,0.007,0.05,0.3,0.004,0.0,2.0,0.0,0.32,0.02,0.01,385.452
+334462,"Restaurant, Chinese, sweet and sour pork",Restaurant Foods,46.0,25.5,0.06,3.07,13.0,0.173,133.0,152.0,8.88,13.6,50.8,1.07,259.92
+334536,"Restaurant, Chinese, fried rice, without meat",Restaurant Foods,11.0,32.5,0.086,0.46,9.7,0.428,44.0,69.0,3.84,3.19,59.3,0.69,174.07000000000002
+334628,"Restaurant, Latino, tamale, pork",Restaurant Foods,75.0,15.8,0.05,0.87,26.2,0.186,120.0,152.0,7.38,9.04,66.0,1.2,174.07999999999998
+334720,"Restaurant, Latino, pupusas con frijoles (pupusas, bean)",Restaurant Foods,51.0,31.5,0.141,1.46,53.6,0.344,144.0,305.0,5.59,9.01,52.2,0.94,229.45000000000002
+334849,"Beef, loin, top loin steak, boneless, lip-on, separable lean only, trimmed to 1/8"" fat, choice, raw",Beef Products,15.0,0.0,0.043,1.9,11.3,0.002,206.0,282.0,22.8,6.39,69.9,3.76,154.9938
+334897,"Beef, loin, tenderloin roast, separable lean only, boneless, trimmed to 0"" fat, select, cooked, roasted",Beef Products,13.0,0.0,0.097,3.04,13.7,0.008,259.0,352.0,27.7,6.36,65.7,3.7,175.64619999999996
+334898,"Beef, round, eye of round roast, boneless, separable lean only, trimmed to 0"" fat, select, raw",Beef Products,13.0,0.0,0.035,1.37,11.4,0.002,222.0,312.0,23.4,2.48,73.7,3.38,122.28759999999997
+334963,"Beef, round, top round roast, boneless, separable lean only, trimmed to 0"" fat, select, raw",Beef Products,13.0,0.0,0.047,2.34,11.9,0.003,220.0,316.0,23.7,2.41,73.3,3.54,122.93719999999999
+335061,"Beef, short loin, t-bone steak, bone-in, separable lean only, trimmed to 1/8"" fat, choice, cooked, grilled",Beef Products,19.0,0.0,0.078,3.53,20.0,0.003,211.0,283.0,27.3,11.4,60.3,4.69,219.399
+335109,"Beef, short loin, porterhouse steak, separable lean only, trimmed to 1/8"" fat, select, raw",Beef Products,19.0,0.0,0.075,2.26,10.7,0.003,200.0,266.0,22.7,5.32,71.4,3.52,144.91539999999998
+335240,"Bread, whole-wheat, commercially prepared",Baked Products,163.0,43.1,0.226,2.56,76.6,2.18,212.0,250.0,12.3,3.55,38.7,1.76,253.55
+746758,"Beef, loin, tenderloin roast, separable lean only, boneless, trimmed to 0"" fat, select, cooked, roasted",Beef Products,13.0,0.0,0.097,3.04,13.7,0.008,259.0,352.0,27.7,6.36,65.7,3.7,175.64619999999996
+746759,"Beef, loin, top loin steak, boneless, lip-on, separable lean only, trimmed to 1/8"" fat, choice, raw",Beef Products,15.0,0.0,0.043,1.9,11.3,0.002,206.0,282.0,22.8,6.39,69.9,3.76,154.9938
+746760,"Beef, round, eye of round roast, boneless, separable lean only, trimmed to 0"" fat, select, raw",Beef Products,13.0,0.0,0.035,1.37,11.4,0.002,222.0,312.0,23.4,2.48,73.7,3.38,122.28759999999997
+746761,"Beef, round, top round roast, boneless, separable lean only, trimmed to 0"" fat, select, raw",Beef Products,13.0,0.0,0.047,2.34,11.9,0.003,220.0,316.0,23.7,2.41,73.3,3.54,122.93719999999999
+746762,"Beef, short loin, porterhouse steak, separable lean only, trimmed to 1/8"" fat, select, raw",Beef Products,19.0,0.0,0.075,2.26,10.7,0.003,200.0,266.0,22.7,5.32,71.4,3.52,144.91539999999998
+746763,"Beef, short loin, t-bone steak, bone-in, separable lean only, trimmed to 1/8"" fat, choice, cooked, grilled",Beef Products,19.0,0.0,0.078,3.53,20.0,0.003,211.0,283.0,27.3,11.4,60.3,4.69,219.399
+746764,"Carrots, frozen, unprepared",Vegetables and Vegetable Products,33.0,7.92,0.08,0.43,10.8,0.143,31.0,210.0,0.81,0.47,90.1,0.28,36.5985
+746765,"Cheese, dry white, queso seco",Dairy and Egg Products,661.0,2.07,0.027,0.18,26.7,0.018,475.0,116.0,24.5,24.3,42.2,3.28,326.2229
+746766,"Cheese, ricotta, whole milk",Dairy and Egg Products,224.0,6.86,0.0,0.1,19.7,0.0,162.0,230.0,7.81,11.0,72.9,0.56,156.58689999999999
+746767,"Cheese, swiss",Dairy and Egg Products,890.0,1.44,0.047,0.13,33.4,0.027,574.0,71.0,27.0,31.0,37.6,4.37,393.35279999999995
+746768,"Figs, dried, uncooked",Fruits and Fruit Juices,162.0,63.9,0.287,2.03,67.6,0.51,67.0,680.0,3.3,0.92,30.0,0.66,248.8284
+746769,"Lettuce, cos or romaine, raw",Vegetables and Vegetable Products,35.0,3.24,0.048,0.95,13.7,0.127,30.0,253.0,1.24,0.26,94.7,0.25,16.7686
+746770,"Melons, cantaloupe, raw",Fruits and Fruit Juices,9.0,8.16,0.085,0.38,13.0,0.046,17.0,157.0,0.82,0.18,90.2,0.44,33.6378
+746771,"Oranges, raw, navels",Fruits and Fruit Juices,43.0,11.8,0.064,0.33,10.7,0.029,23.0,166.0,0.91,0.15,86.7,0.11,46.7931
+746772,"Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D",Dairy and Egg Products,126.0,5.18,0.001,0.0,12.0,0.0,103.0,159.0,3.38,0.95,89.7,0.43,42.829699999999995
+746773,"Pears, raw, bartlett",Fruits and Fruit Juices,8.0,15.1,0.07,0.17,5.7,0.032,10.0,87.0,0.38,0.16,84.1,0.07,56.976
+746774,"Restaurant, Chinese, sweet and sour pork",Restaurant Foods,46.0,25.5,0.06,3.07,13.0,0.173,133.0,152.0,8.88,13.6,50.8,1.07,259.92
+746776,"Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)",Dairy and Egg Products,132.0,4.92,0.002,0.0,12.5,0.001,107.0,167.0,3.43,0.08,90.8,0.45,34.389700000000005
+746777,"Sauce, salsa, ready-to-serve","Soups, Sauces, and Gravies",28.0,6.74,0.065,0.42,15.2,0.11,32.0,258.0,1.44,0.19,89.3,0.2,29.2607
+746778,"Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D",Dairy and Egg Products,126.0,4.9,0.001,0.0,12.0,0.001,103.0,159.0,3.36,1.9,89.1,0.43,50.01119999999999
+746779,"Sausage, breakfast sausage, beef, pre-cooked, unprepared",Sausages and Luncheon Meats,35.0,3.37,0.075,1.55,19.7,0.174,124.0,263.0,13.3,28.7,51.7,2.14,328.70689999999996
+746780,"Sausage, Italian, pork, mild, cooked, pan-fried",Sausages and Luncheon Meats,12.0,2.15,0.074,1.29,18.6,0.033,145.0,310.0,18.2,26.2,50.9,2.41,322.35849999999994
+746781,"Sausage, pork, chorizo, link or ground, cooked, pan-fried",Sausages and Luncheon Meats,37.0,2.63,0.13,2.34,30.1,0.188,207.0,435.0,19.3,28.1,46.3,2.19,346.0511
+746782,"Milk, whole, 3.25% milkfat, with added vitamin D",Dairy and Egg Products,123.0,4.63,0.001,0.0,11.9,0.0,101.0,150.0,3.27,3.2,88.1,0.42,60.009
+746783,"Sausage, turkey, breakfast links, mild, raw",Sausages and Luncheon Meats,32.0,0.93,0.07,1.17,18.9,0.035,178.0,310.0,16.7,10.4,69.6,2.58,168.71609999999998
+746784,"Sugars, granulated",Sweets,1.0,99.6,0.007,0.05,0.3,0.004,0.0,2.0,0.0,0.32,0.02,0.01,385.452
+746785,"Turkey, ground, 93% lean, 7% fat, pan-broiled crumbles",Poultry Products,31.0,0.0,0.166,1.56,29.1,0.01,259.0,304.0,27.1,11.6,61.1,3.77,220.349
+746952,"Ham, sliced, restaurant",Pork Products,6.0,2.36,0.041,0.86,20.3,0.015,246.0,484.0,19.6,3.68,70.7,1.76,126.0188
+747429,"Cheese, American, restaurant",Dairy and Egg Products,508.0,6.35,0.042,0.24,25.0,0.018,380.0,173.0,17.5,31.1,39.5,2.45,372.6685
+747447,"Broccoli, raw",Vegetables and Vegetable Products,46.0,6.27,0.059,0.69,21.0,0.197,67.0,303.0,2.57,0.34,90.0,0.42,31.5005
+747448,"Strawberries, raw",Fruits and Fruit Juices,12.0,7.63,0.119,0.28,11.8,0.28,20.0,89.0,0.64,0.22,91.1,0.18,31.4598
+747693,"Ketchup, restaurant",Vegetables and Vegetable Products,14.0,26.8,0.066,0.43,13.5,0.086,25.0,249.0,1.11,0.55,68.5,0.16,102.9879
+747997,"Eggs, Grade A, Large, egg white",Dairy and Egg Products,,2.36,,,,,,,10.7,0.0,86.3,,55.3368
+748236,"Eggs, Grade A, Large, egg yolk",Dairy and Egg Products,,1.02,,,,,,,16.2,28.8,52.1,,334.1616
+748967,"Eggs, Grade A, Large, egg whole",Dairy and Egg Products,48.0,0.96,0.0,1.67,11.4,0.0,184.0,132.0,12.4,9.96,75.8,1.24,147.436
+749420,"Pork, cured, bacon, cooked, restaurant",Pork Products,13.0,2.1,0.13,1.28,36.5,0.02,415.0,557.0,40.9,36.5,14.2,3.56,511.99999999999994
+789890,"Flour, wheat, all-purpose, enriched, bleached",Cereal Grains and Pasta,19.0,77.3,0.155,5.62,26.7,0.758,108.0,136.0,10.9,1.48,9.83,0.72,375.0086
+789951,"Flour, wheat, all-purpose, enriched, unbleached",Cereal Grains and Pasta,21.0,73.2,0.172,5.41,33.3,0.875,115.0,135.0,13.1,1.48,11.7,0.9,367.02660000000003
+790018,"Flour, wheat, all-purpose, unenriched, unbleached",Cereal Grains and Pasta,22.0,74.6,0.212,1.18,36.1,0.819,134.0,150.0,12.0,1.7,11.1,1.15,370.181
+790085,"Flour, whole wheat, unenriched",Cereal Grains and Pasta,38.0,71.2,0.452,3.86,136.0,3.56,352.0,376.0,15.1,2.73,9.44,3.24,346.1951
+790146,"Flour, bread, white, enriched, unbleached",Cereal Grains and Pasta,19.0,72.8,0.194,5.55,35.9,0.751,124.0,127.0,14.3,1.65,10.7,1.06,371.6615
+790214,"Flour, rice, white, unenriched",Cereal Grains and Pasta,6.0,79.8,0.209,0.22,22.9,0.892,94.0,75.0,6.94,1.3,11.6,1.19,369.35980000000006
+790276,"Flour, corn, yellow, fine meal, enriched",Cereal Grains and Pasta,0.0,80.8,0.082,4.44,30.1,0.172,92.0,144.0,6.2,1.74,10.8,0.62,372.1438
+1104647,"Garlic, raw",Vegetables and Vegetable Products,,28.2,,,,,,,6.62,0.38,63.1,,129.8722
+1104705,"Flour, soy, defatted",Legumes and Legume Products,338.0,32.9,1.51,7.34,313.0,3.81,726.0,2480.0,51.1,3.33,6.24,4.44,339.0921
+1104766,"Flour, soy, full-fat",Legumes and Legume Products,258.0,27.9,1.09,9.51,254.0,3.16,607.0,1860.0,38.6,20.7,7.85,3.75,420.754
+1104812,"Flour, rice, brown",Cereal Grains and Pasta,10.0,75.5,0.286,1.5,124.0,2.84,319.0,265.0,7.19,3.85,12.1,1.91,367.8024
+1104867,"Flour, rice, glutinous",Cereal Grains and Pasta,10.0,80.1,0.17,0.34,21.2,0.995,63.0,80.0,6.69,1.16,11.8,1.34,368.481
+1104913,"Flour, pastry, unenriched, unbleached",Cereal Grains and Pasta,17.0,77.2,0.159,0.87,22.4,0.635,102.0,142.0,8.75,1.64,11.9,0.74,367.2283
+1104962,"Onions, white, raw",Vegetables and Vegetable Products,21.0,7.68,0.047,0.15,9.3,0.099,29.0,141.0,0.89,0.13,91.3,0.12,33.0535
+1105073,"Bananas, overripe, raw",Fruits and Fruit Juices,,20.1,,,,,,,0.73,0.22,78.3,,76.6542
+1105314,"Bananas, ripe and slightly ripe, raw",Fruits and Fruit Juices,5.0,23.0,0.101,0.0,28.0,0.258,22.0,326.0,0.74,0.29,75.3,0.16,87.7137
+1105430,"Apples, red delicious, with skin, raw",Fruits and Fruit Juices,5.0,14.8,0.024,0.0,4.7,0.03,9.0,95.0,0.19,0.21,84.7,0.02,55.6761
+1105547,"Apples, honeycrisp, with skin, raw",Fruits and Fruit Juices,4.0,14.7,0.023,0.0,4.2,0.04,8.0,98.0,0.1,0.1,85.0,0.02,54.093
+1105664,"Apples, granny smith, with skin, raw",Fruits and Fruit Juices,5.0,14.2,0.035,0.07,5.1,0.039,10.0,116.0,0.27,0.14,85.1,0.02,53.199
+1105781,"Apples, gala, with skin, raw",Fruits and Fruit Juices,7.0,14.8,0.034,0.06,5.0,0.04,8.0,106.0,0.13,0.15,84.6,0.02,54.9723
+1105897,"Apples, fuji, with skin, raw",Fruits and Fruit Juices,6.0,15.7,0.033,0.02,4.7,0.033,10.0,104.0,0.15,0.16,83.6,0.02,58.36319999999999
+1750337,"Soy milk, unsweetened, plain, shelf stable",Legumes and Legume Products,101.0,1.293125,0.1078,0.5416,21.54,0.2077,68.65,158.2,3.546875,2.125,92.4,0.3118,38.485
+1750338,"Almond milk, unsweetened, plain, shelf stable",Beverages,172.7,0.3371125,0.02126,0.2899,6.785,0.04497,29.85,30.79,0.5546875,1.221,97.4,0.1718,14.5562
+1750339,"Apples, red delicious, with skin, raw",Fruits and Fruit Juices,4.656,14.7817,0.02429,0.0,4.695,0.02948,9.183,95.31,0.1875,0.2125,84.67,0.01964,55.622745
+1750340,"Apples, fuji, with skin, raw",Fruits and Fruit Juices,5.975,15.6511625,0.03279,0.015,4.67,0.03263,9.78,103.8,0.1484375,0.1625,83.61,0.01676,58.20306000000001
+1750341,"Apples, gala, with skin, raw",Fruits and Fruit Juices,6.639,14.7680875,0.03394,0.06013,4.947,0.04004,8.435,105.9,0.1328125,0.15,84.65,0.02349,54.866865
+1750342,"Apples, granny smith, with skin, raw",Fruits and Fruit Juices,5.483,14.142975,0.03544,0.06963,5.055,0.03934,9.859,115.9,0.265625,0.1375,85.14,0.02276,52.958085
+1750343,"Apples, honeycrisp, with skin, raw",Fruits and Fruit Juices,3.874,14.6819375,0.0234,0.0,4.151,0.0397,7.852,98.04,0.1015625,0.1,85.03,0.01828,54.03322500000001
+1750344,"Mushroom, lion's mane",Vegetables and Vegetable Products,0.0,7.5897,0.1771,0.6883,11.72,0.1796,93.95,443.3,2.5,0.2563,88.57,0.7448,35.107387
+1750345,"Mushroom, oyster",Vegetables and Vegetable Products,0.0,6.94125,0.1064,0.6981,13.91,0.08554,86.24,281.6,2.89875,0.1875,89.24,0.6843,33.31965
+1750346,"Mushrooms, shiitake",Vegetables and Vegetable Products,0.7663,8.170625,0.04978,0.1443,14.06,0.1734,75.82,243.0,2.414375,0.195,88.6,0.7641,36.3915875
+1750347,"Mushrooms, white button",Vegetables and Vegetable Products,5.465,4.079375,0.3888,0.2267,10.16,0.0538,93.05,373.0,2.890625,0.3708,91.83,0.511,24.8732585
+1750352,"Spinach, baby",Vegetables and Vegetable Products,68.35,2.406325,0.08181,1.261,92.86,0.4884,39.05,581.8,2.851875,0.6188,92.52,0.4471,20.728511249999997
+1750353,"Spinach, mature",Vegetables and Vegetable Products,66.64,2.64135,0.07883,1.054,92.96,0.4257,40.56,459.7,2.90625,0.6044,92.43,0.4229,21.5796975
+1750354,"Tomato, roma",Vegetables and Vegetable Products,9.963,3.837475,0.03198,0.1031,8.089,0.0869,19.09,192.8,0.695625,0.425,94.73,0.08245,18.954360749999996
+1999626,"Mushroom, lion's mane",Vegetables and Vegetable Products,0.0,7.5897,0.1771,0.6883,11.72,0.1796,93.95,443.3,2.5,0.2563,88.57,0.7448,35.107387
+1999627,"Mushroom, oyster",Vegetables and Vegetable Products,0.0,6.94125,0.1064,0.6981,13.91,0.08554,86.24,281.6,2.89875,0.1875,89.24,0.6843,33.31965
+1999628,"Mushrooms, shiitake",Vegetables and Vegetable Products,0.7663,8.170625,0.04978,0.1443,14.06,0.1734,75.82,243.0,2.414375,0.195,88.6,0.7641,36.3915875
+1999629,"Mushrooms, white button",Vegetables and Vegetable Products,5.465,4.079375,0.3888,0.2267,10.16,0.0538,93.05,373.0,2.890625,0.3708,91.83,0.511,24.8732585
+1999630,"Soy milk, unsweetened, plain, shelf stable",Legumes and Legume Products,101.0,1.293125,0.1078,0.5416,21.54,0.2077,68.65,158.2,3.546875,2.125,92.4,0.3118,38.485
+1999631,"Almond milk, unsweetened, plain, shelf stable",Beverages,172.7,0.3371125,0.02126,0.2899,6.785,0.04497,29.85,30.79,0.5546875,1.221,97.4,0.1718,14.5562
+1999632,"Spinach, baby",Vegetables and Vegetable Products,68.35,2.406325,0.08181,1.261,92.86,0.4884,39.05,581.8,2.851875,0.6188,92.52,0.4471,20.728511249999997
+1999633,"Spinach, mature",Vegetables and Vegetable Products,66.64,2.64135,0.07883,1.054,92.96,0.4257,40.56,459.7,2.90625,0.6044,92.43,0.4229,21.5796975
+1999634,"Tomato, roma",Vegetables and Vegetable Products,9.963,3.837475,0.03198,0.1031,8.089,0.0869,19.09,192.8,0.695625,0.425,94.73,0.08245,18.954360749999996
+2003586,"Flour, 00",Cereal Grains and Pasta,18.68,74.4462,0.1675,0.9863,25.8,0.5516,106.2,135.5,11.4,1.52,12.17,0.791,365.610744
+2003587,"Flour, spelt, whole grain",Cereal Grains and Pasta,30.04,70.723,0.5313,3.769,123.8,2.943,361.7,349.8,14.475,2.543,10.72,3.591,340.5831
+2003588,"Flour, semolina, coarse and semi-coarse",Cereal Grains and Pasta,17.16,73.82345,0.2273,1.547,35.21,0.647,129.8,173.8,11.73125,1.597,12.24,0.947,365.03106649999995
+2003589,"Flour, semolina, fine",Cereal Grains and Pasta,19.76,71.98575,0.2855,2.431,46.28,0.842,163.1,207.8,13.33125,1.838,12.11,1.24,365.95691249999993
+2003590,"Apple juice, with added vitamin C, from concentrate, shelf stable",Fruits and Fruit Juices,7.099,11.3639625,0.003401,0.04016,4.861,0.0271,5.987,95.87,0.0859375,0.2863,88.14,0.002125,47.231814
+2003591,"Orange juice, no pulp, not fortified, from concentrate, refrigerated",Fruits and Fruit Juices,12.81,10.340625,0.03218,0.06458,10.64,0.02986,18.15,179.5,0.734375,0.325,88.25,0.03189,45.723
+2003592,"Grape juice, purple, with added vitamin C, from concentrate, shelf stable",Fruits and Fruit Juices,9.741,15.6227875,0.01469,0.04092,7.873,0.1658,11.95,49.78,0.2578125,0.2875,83.71,0.0571,64.513952
+2003593,"Grape juice, white, with added vitamin C, from concentrate, shelf stable",Fruits and Fruit Juices,7.318,15.84375,0.004458,0.1191,4.274,0.06128,12.57,49.01,0.09375,0.265,83.66,0.01773,64.64055
+2003594,"Cranberry juice, not fortified, from concentrate, shelf stable",Fruits and Fruit Juices,6.641,7.26375,0.01316,0.1257,4.381,0.2111,3.299,70.58,0.0,0.3375,92.3,0.0412,31.298775
+2003595,"Grapefruit juice, red, not fortified, not from concentrate, refrigerated",Fruits and Fruit Juices,8.879,9.1021875,0.02411,0.01529,7.748,0.01548,14.58,128.3,0.5703125,0.2669,89.84,0.02739,39.830777999999995
+2003596,"Tomato juice, with added ingredients, from concentrate, shelf stable",Vegetables and Vegetable Products,9.744,4.320625,0.05745,0.2988,10.43,0.05834,18.54,197.6,0.859375,0.2875,93.6,0.104,19.92788125
+2003597,"Orange juice, no pulp, not fortified, not from concentrate, refrigerated",Fruits and Fruit Juices,9.288,10.0124,0.03529,0.07061,10.26,0.02774,18.96,182.8,0.8125,0.3563,88.48,0.03206,44.96083899999999
+2003598,"Mushroom, portabella",Vegetables and Vegetable Products,3.235,4.6583,0.2033,0.139,9.037,0.04873,87.48,349.3,2.75,0.3117,91.48,0.3888,26.024812999999998
+2003599,"Mushroom, king oyster",Vegetables and Vegetable Products,0.0,8.50065,0.047,0.3381,13.51,0.09125,89.86,294.5,2.40625,0.3075,88.13,0.6254,38.460412
+2003600,"Mushroom, enoki",Vegetables and Vegetable Products,1.432,8.141425,0.09342,1.275,12.84,0.09013,84.1,402.3,2.416875,0.245,88.29,0.4815,36.7150215
+2003601,"Mushroom, crimini",Vegetables and Vegetable Products,4.105,4.01455,0.3212,0.3115,10.25,0.06095,100.5,380.3,3.09375,0.1967,91.82,0.5123,23.722638
+2003602,"Mushroom, maitake",Vegetables and Vegetable Products,0.0,6.604375,0.2719,0.2089,11.04,0.0584,72.38,260.0,2.203125,0.265,90.37,0.7629,30.973462500000004
+2003603,"Mushroom, beech",Vegetables and Vegetable Products,0.4325,6.7593,0.07302,0.7388,10.49,0.156,85.9,375.9,2.18,0.4494,89.85,0.4978,32.995442
+2003604,"Mushroom, pioppini",Vegetables and Vegetable Products,0.0,5.7637,0.2755,0.486,15.99,0.09791,120.6,392.4,3.5,0.24,89.56,0.8573,31.236476000000003
+2257044,"Soy milk, sweetened, plain, refrigerated",Legumes and Legume Products,154.8,2.996125,0.09561,0.3666,17.46,0.1596,45.96,117.9,2.776875,1.957,91.52,0.2636,0.0
+2257045,"Almond milk, unsweetened, plain, refrigerated",Beverages,157.5,0.67075,0.02688,0.1247,8.249,0.05642,19.08,49.27,0.65625,1.558,96.52,0.07661,0.0
+2257046,"Oat milk, unsweetened, plain, refrigerated",Beverages,148.5,5.100325,0.02712,0.2612,5.909,0.1262,89.18,148.4,0.796875,2.749,90.56,0.09062,0.0
+2258586,"Carrots, mature, raw",Vegetables and Vegetable Products,30.48,10.26755,0.06148,0.1504,12.45,0.1301,39.81,279.6,0.94125,0.3506,87.72,0.2364,44.978589
+2258587,"Carrots, baby, raw",Vegetables and Vegetable Products,42.23,9.0787,0.04062,0.088,11.06,0.09288,29.58,237.3,0.805,0.1375,89.3,0.1597,38.25098299999999
+2258588,"Peppers, bell, green, raw",Vegetables and Vegetable Products,7.496,4.7781,0.05775,0.1861,9.004,0.09991,16.75,163.1,0.715,0.1063,94.12,0.1256,19.692148
+2258589,"Peppers, bell, yellow, raw",Vegetables and Vegetable Products,6.686,6.601725,0.04529,0.3596,10.34,0.1417,24.76,197.3,0.819375,0.1211,92.08,0.193,26.58104025
+2258590,"Peppers, bell, red, raw",Vegetables and Vegetable Products,6.361,6.653175,0.03983,0.3533,10.98,0.1328,26.59,212.7,0.895625,0.1256,91.93,0.2023,26.98843175
+2258591,"Peppers, bell, orange, raw",Vegetables and Vegetable Products,4.899,6.703125,0.0351,0.3652,10.43,0.1491,26.59,200.8,0.881875,0.1556,91.88,0.2422,27.38430325
+2259792,"Buttermilk, low fat",Dairy and Egg Products,120.1,4.811522,0.00135,0.01325,11.03,0.0,92.19,158.0,3.464978,1.081,89.79,0.4263,42.918036199999996
+2259793,"Yogurt, plain, whole milk",Dairy and Egg Products,126.8,5.574928,0.003175,0.0,11.45,0.001539,101.2,164.1,3.824172,4.484,85.27,0.4283,77.31854579999998
+2259794,"Yogurt, Greek, plain, whole milk",Dairy and Egg Products,110.9,4.75402,0.009513,0.0,10.7,0.005738,125.9,146.9,8.77888,4.394,81.32,0.473,94.50713499999998
+2259795,"Cheese, parmesan, grated, refrigerated",Dairy and Egg Products,950.4,4.33188,0.04233,0.1405,35.37,0.03713,625.3,73.95,30.13912,29.5,30.83,4.623,404.7634179999999
+2259796,"Cheese, feta, whole milk, crumbled",Dairy and Egg Products,371.1,5.58318,0.03155,0.0675,17.69,0.02003,327.6,105.3,19.70782,19.08,51.89,2.353,273.472498
+2261420,"Flour, almond",Nut and Seed Products,232.3,16.24925,0.9753,3.225,251.1,1.813,512.1,666.8,26.24375,50.23,4.316,2.795,577.62536
+2261421,"Flour, oat, whole grain",Cereal Grains and Pasta,42.81,69.91725,0.4434,3.997,125.3,3.257,371.8,373.1,13.16875,6.309,8.859,2.754,386.42927499999996
+2261422,"Flour, potato",Vegetables and Vegetable Products,44.12,79.9422,0.2309,11.97,73.65,0.6758,197.3,1269.0,8.1125,0.9513,8.281,0.9002,352.68219700000003
+2262072,"Peanut butter, creamy",Legumes and Legume Products,49.85,22.70376,0.5405,1.853,192.6,1.681,393.2,654.0,23.99124,49.43,1.104,3.062,589.383006
+2262073,"Sesame butter, creamy",Nut and Seed Products,115.8,14.179,1.646,7.003,356.8,1.609,719.3,407.7,19.7054,62.4,0.6056,6.039,648.3742679999999
+2262074,"Almond butter, creamy",Nut and Seed Products,263.8,21.23666,0.9746,4.108,267.8,2.135,506.9,745.4,20.78734,53.04,1.751,3.178,602.510076
+2262075,"Flaxseed, ground",Nut and Seed Products,229.9,34.3551,1.344,5.778,372.1,2.405,556.4,793.4,18.0359,37.28,6.804,4.738,514.44343
+2263887,"Strawberries, raw",Fruits and Fruit Juices,16.9,7.964375,0.03471,0.255,12.52,0.3675,22.98,160.7,0.640625,0.22,90.83,0.114,32.66565
+2263888,"Raspberries, raw",Fruits and Fruit Juices,16.41,12.904375,0.05289,0.4501,19.15,0.4935,27.47,155.8,1.008125,0.1875,85.55,0.2213,51.412425000000006
+2263889,"Blueberries, raw",Fruits and Fruit Juices,11.69,14.571775,0.04605,0.3398,6.179,0.4228,12.96,85.64,0.703125,0.3063,84.19,0.08534,57.384620999999996
+2263890,"Grapes, red, seedless, raw",Fruits and Fruit Juices,10.17,20.196825,0.08081,0.1615,8.556,0.09758,24.86,229.4,0.914375,0.1638,78.19,0.03603,77.151876
+2263891,"Grapes, green, seedless, raw",Fruits and Fruit Juices,9.897,18.60375,0.06091,0.1991,7.118,0.08365,21.98,218.1,0.89875,0.2325,79.88,0.02674,71.93932500000001
+2263892,"Applesauce, unsweetened, with added vitamin C",Fruits and Fruit Juices,3.821,12.2615625,0.03905,0.04475,3.938,0.0368,9.119,107.7,0.2734375,0.1625,87.1,0.002625,46.420500000000004
+2346384,"Cottage cheese, full fat, large or small curd",Dairy and Egg Products,88.27,4.59964,0.0,0.0,9.189,0.0,154.0,123.6,11.62436,4.225,78.1,0.4538,104.57437399999998
+2346385,"Cream cheese, full fat, block",Dairy and Egg Products,97.11,4.55615,0.0,0.0,8.914,0.0,107.7,124.8,5.78985,33.49,54.72,0.5891,336.73206
+2346386,"Cream, heavy",Dairy and Egg Products,61.21,3.799506,0.0,0.0,5.974,0.0,57.03,96.94,2.017994,35.56,58.13,0.2231,335.89332260000003
+2346387,"Cream, sour, full fat",Dairy and Egg Products,107.2,5.555506,0.0,0.0,10.11,0.0,102.0,153.8,3.070694,17.99,72.58,0.3919,192.74377159999997
+2346388,"Lettuce, iceberg, raw",Vegetables and Vegetable Products,14.24,3.36875,0.03335,0.03325,6.311,0.08164,19.18,139.3,0.7425,0.07375,95.5,0.1728,14.455424999999998
+2346389,"Lettuce, romaine, green, raw",Vegetables and Vegetable Products,27.56,4.055575,0.04865,0.267,12.05,0.2271,23.41,260.4,0.976875,0.07125,94.29,0.2516,17.458340250000003
+2346390,"Lettuce, leaf, red, raw",Vegetables and Vegetable Products,42.59,3.260575,0.03773,0.4023,12.4,0.177,24.4,321.4,0.883125,0.1063,95.05,0.3033,14.684808749999998
+2346391,"Lettuce, leaf, green, raw",Vegetables and Vegetable Products,39.84,4.06615,0.03984,0.3195,12.77,0.1559,26.55,277.1,1.09375,0.1563,94.01,0.3103,18.4931365
+2346392,"Nuts, pine nuts, raw",Nut and Seed Products,8.736,18.5921,1.119,5.36,205.9,10.25,540.0,654.8,15.7039,61.27,1.925,5.713,642.9922799999999
+2346393,"Nuts, almonds, whole, raw",Nut and Seed Products,253.6,20.03462,0.9104,3.741,257.6,2.149,502.9,732.8,21.45038,51.09,4.261,2.865,583.5970219999999
+2346394,"Nuts, walnuts, English, halves, raw",Nut and Seed Products,88.26,10.9096,1.206,2.235,142.4,2.995,365.1,423.5,14.5644,69.74,3.145,2.76,678.6643399999998
+2346395,"Nuts, pecans, halves, raw",Nut and Seed Products,54.83,12.6993,0.9065,2.371,102.9,2.28,252.7,360.3,9.9587,73.28,2.623,3.93,699.5964399999999
+2346396,"Oats, whole grain, rolled, old fashioned",Cereal Grains and Pasta,45.53,68.65755,0.4278,4.339,126.3,3.234,387.3,350.1,13.49645,5.89,10.25,2.744,378.866123
+2346397,"Oats, whole grain, steel cut",Cereal Grains and Pasta,51.34,69.75082,0.4113,3.801,128.6,3.414,417.3,375.9,12.51118,5.8,10.14,2.843,379.20806120000003
+2346398,"Pineapple, raw",Fruits and Fruit Juices,12.5,14.0914625,0.09545,0.054,13.38,0.866,5.42,137.1,0.4609375,0.2113,84.99,0.1067,54.046596
+2346399,"Cherries, sweet, dark red, raw",Fruits and Fruit Juices,12.26,16.163125,0.06925,0.1054,12.11,0.07336,23.25,229.6,1.039375,0.1925,82.18,0.06446,63.290775000000004
+2346400,"Beans, snap, green, raw",Vegetables and Vegetable Products,40.05,7.41245,0.09829,0.6516,28.21,0.3324,41.15,290.4,1.96875,0.275,89.66,0.3498,33.5679465
+2346401,"Potatoes, russet, without skin, raw",Vegetables and Vegetable Products,7.801,17.77125,0.09118,0.3835,25.64,0.152,55.19,450.1,2.27375,0.36,78.61,0.3781,80.9523625
+2346402,"Potatoes, red, without skin, raw",Vegetables and Vegetable Products,5.128,16.27,0.09124,0.3911,23.56,0.1648,55.65,472.0,2.0625,0.2475,80.47,0.3923,73.373425
+2346403,"Potatoes, gold, without skin, raw",Vegetables and Vegetable Products,5.943,15.9624,0.1304,0.3728,22.3,0.1598,56.95,445.8,1.8125,0.2638,81.07,0.3739,71.575228
+2346404,"Sweet potatoes, orange flesh, without skin, raw",Vegetables and Vegetable Products,22.33,17.327875,0.1866,0.398,19.14,0.4174,36.73,486.4,1.578125,0.375,79.54,0.3374,77.35727374999999
+2346405,"Celery, raw",Vegetables and Vegetable Products,46.28,3.3165125,0.0,0.0,10.93,0.076,21.6,265.2,0.4921875,0.1625,95.2,0.0929,14.832158750000001
+2346406,"Cucumber, with peel, raw",Vegetables and Vegetable Products,16.34,2.9525,0.06299,0.0,10.11,0.08488,23.23,169.6,0.625,0.1775,95.87,0.204,13.934925000000002
+2346407,"Cabbage, green, raw",Vegetables and Vegetable Products,41.84,6.38375,0.0,0.06625,13.86,0.2479,26.93,207.1,0.96125,0.2275,91.87,0.2112,27.8695
+2346408,"Cabbage, red, raw",Vegetables and Vegetable Products,30.99,6.7899,0.0035,0.0,13.3,0.3094,35.84,269.1,1.2425,0.2138,91.14,0.245,29.943836
+2346409,"Strawberries, raw",Fruits and Fruit Juices,16.9,7.964375,0.03471,0.255,12.52,0.3675,22.98,160.7,0.640625,0.22,90.83,0.114,32.66565
+2346410,"Raspberries, raw",Fruits and Fruit Juices,16.41,12.904375,0.05289,0.4501,19.15,0.4935,27.47,155.8,1.008125,0.1875,85.55,0.2213,51.412425000000006
+2346411,"Blueberries, raw",Fruits and Fruit Juices,11.69,14.571775,0.04605,0.3398,6.179,0.4228,12.96,85.64,0.703125,0.3063,84.19,0.08534,57.384620999999996
+2346412,"Grapes, red, seedless, raw",Fruits and Fruit Juices,10.17,20.196825,0.08081,0.1615,8.556,0.09758,24.86,229.4,0.914375,0.1638,78.19,0.03603,77.151876
+2346413,"Grapes, green, seedless, raw",Fruits and Fruit Juices,9.897,18.60375,0.06091,0.1991,7.118,0.08365,21.98,218.1,0.89875,0.2325,79.88,0.02674,71.93932500000001
+2346414,"Applesauce, unsweetened, with added vitamin C",Fruits and Fruit Juices,3.821,12.2615625,0.03905,0.04475,3.938,0.0368,9.119,107.7,0.2734375,0.1625,87.1,0.002625,46.420500000000004
+2512371,"Flour, amaranth",Cereal Grains and Pasta,135.2,68.7787,0.5179,7.56,232.7,2.305,424.9,395.8,13.2093,6.236,9.486,3.001,377.96090000000004
+2512372,"Flour, quinoa",Cereal Grains and Pasta,37.56,69.52465,0.4819,4.528,163.8,2.015,369.3,550.9,11.92235,6.601,9.951,2.77,378.39401499999997
+2512373,"Flour, sorghum",Cereal Grains and Pasta,11.41,77.39123,0.2368,3.721,116.4,1.078,261.9,335.1,8.27277,3.586,9.414,1.66,363.8590417
+2512374,"Flour, buckwheat",Cereal Grains and Pasta,30.55,75.01808,0.5299,3.84,167.4,1.544,281.9,378.1,8.88492,2.484,12.04,1.755,334.30160279999996
+2512375,"Flour, rye",Cereal Grains and Pasta,32.24,77.1618,0.3384,2.536,95.39,2.129,280.3,434.0,8.3952,1.908,11.13,2.328,350.962038
+2512376,"Flour, barley",Cereal Grains and Pasta,35.56,77.39832,0.3936,3.301,88.04,1.181,234.4,366.6,8.72168,2.45,9.899,2.144,357.19182800000004
+2512377,"Flour, cassava",Vegetables and Vegetable Products,74.55,87.312975,0.07663,3.988,33.56,0.3954,39.24,197.6,0.918225,0.4938,10.56,0.4099,358.55706075
+2512378,"Buckwheat, whole grain",Cereal Grains and Pasta,13.64,71.13066,0.4764,2.444,203.0,1.23,373.7,414.5,11.06534,3.039,12.95,2.236,331.6005206
+2512379,"Millet, whole grain",Cereal Grains and Pasta,9.105,74.44623,0.4883,2.534,105.5,0.9239,257.9,214.1,10.02177,4.194,10.21,2.258,380.6064975
+2512380,"Rice, brown, long grain, unenriched, raw",Cereal Grains and Pasta,8.058,76.68795,0.2659,1.242,115.0,2.696,302.8,250.1,7.25305,3.306,11.47,1.854,368.3584745
+2512381,"Rice, white, long grain, unenriched, raw",Cereal Grains and Pasta,4.46,80.31315,0.2138,0.1405,26.53,0.9811,108.2,82.26,7.03885,1.033,11.19,1.354,369.63732099999993
+2514743,"Beef, ground, 90% lean meat / 10% fat, raw",Beef Products,7.135,0.0,0.05616,2.128,16.49,0.0,148.0,281.4,18.15625,12.85,69.0,4.194,193.4341875
+2514744,"Beef, ground, 80% lean meat / 20% fat, raw",Beef Products,6.889,0.0,0.0551,1.965,16.41,0.0,144.4,273.3,17.53125,19.44,62.82,3.848,250.20723750000002
+2514745,"Pork, ground, raw",Pork Products,5.857,0.0,0.0666,0.7876,19.03,0.0,173.3,317.7,17.80625,17.49,63.87,2.226,233.79248749999996
+2514746,"Chicken, ground, with additives, raw",Poultry Products,5.819,0.0,0.03619,0.5926,20.51,0.005025,165.5,301.7,17.9125,7.161,74.72,1.177,141.078595
+2514747,"Turkey, ground, 93% lean/ 7% fat, raw",Poultry Products,23.63,0.0,0.07624,1.087,17.3,0.01581,162.0,246.3,17.34375,9.591,72.89,2.95,160.56863249999998
+2515373,"Nuts, brazilnuts, raw",Nut and Seed Products,167.8,21.64216,1.739,2.474,351.3,1.26,706.9,592.5,15.03684,57.43,2.265,3.824,620.950526
+2515374,"Nuts, cashew nuts, raw",Nut and Seed Products,41.95,36.2887,2.218,5.988,250.6,1.949,532.2,638.3,17.4423,38.86,4.811,5.071,533.47799
+2515375,"Nuts, hazelnuts or filberts, raw",Nut and Seed Products,134.7,26.5012,1.413,3.465,155.8,6.059,321.1,635.9,13.4938,53.49,4.309,2.334,602.39467
+2515376,"Peanuts, raw",Legumes and Legume Products,49.13,26.498,0.4595,1.554,179.7,1.68,380.4,635.6,23.205,43.28,4.816,2.78,550.62181
+2515377,"Flour, chestnut",Nut and Seed Products,55.81,80.45025,0.581,1.621,68.75,2.901,134.2,1032.0,5.28675,4.636,7.326,1.038,384.58086000000003
+2515378,"Nuts, macadamia nuts, raw",Nut and Seed Products,52.71,24.0943,0.4455,1.881,106.8,11.3,208.4,372.6,7.7857,64.93,1.829,1.2,668.5442800000001
+2515379,"Nuts, pistachio nuts, raw",Nut and Seed Products,117.4,27.6943,1.054,3.456,109.7,1.05,499.6,947.0,20.5057,45.02,3.95,2.176,560.6879799999999
+2515380,"Seeds, pumpkin seeds (pepitas), raw",Nut and Seed Products,37.38,18.6751,1.225,8.363,499.7,4.121,1150.0,691.2,29.9079,40.03,6.621,6.341,514.83917
+2515381,"Seeds, sunflower seed, kernel, raw",Nut and Seed Products,115.6,24.5007,1.875,4.37,301.9,2.63,732.0,656.8,18.8733,48.44,4.873,5.578,570.651
+2515382,"Flour, coconut",Nut and Seed Products,35.98,58.9025,2.081,8.018,247.7,5.293,507.2,2088.0,16.1385,15.28,4.69,3.698,423.62737000000004
+2644281,"Beans, cannellini, dry",Legumes and Legume Products,142.9,59.7955,0.7419,6.673,153.6,1.784,412.3,1424.0,21.5625,2.199,12.3,2.72,336.59519
+2644282,"Chickpeas, (garbanzo beans, bengal gram), dry",Legumes and Legume Products,111.1,60.358,0.8041,5.094,134.8,3.581,353.1,1074.0,21.275,6.274,8.774,3.124,371.99469
+2644283,"Lentils, dry",Legumes and Legume Products,61.85,62.17125,0.8376,7.158,106.7,1.569,373.6,948.9,23.56875,1.925,9.451,3.863,350.93280000000004
+2644284,"Blackeye pea, dry",Legumes and Legume Products,71.4,61.836,0.9359,5.93,183.9,1.288,427.6,1243.0,21.225,2.419,11.01,3.654,345.57030000000003
+2644285,"Beans, black, canned, sodium added, drained and rinsed",Legumes and Legume Products,43.31,19.8135,0.3359,1.688,32.54,0.3324,90.95,253.1,6.9125,1.273,70.79,0.7399,115.28233000000002
+2644286,"Beans, navy, canned, sodium added, drained and rinsed",Legumes and Legume Products,63.91,19.98325,0.29,1.599,29.56,0.3771,86.71,183.7,6.56875,1.398,70.96,0.6313,115.82665
+2644287,"Beans, cannellini, canned, sodium added, drained and rinsed",Legumes and Legume Products,69.19,18.8185,0.2193,1.405,29.29,0.3686,94.74,202.6,7.4125,1.169,71.53,0.5155,112.0972
+2644288,"Chickpeas (garbanzo beans, bengal gram), canned, sodium added, drained and rinsed",Legumes and Legume Products,40.48,20.32025,0.2674,1.042,28.41,0.7448,86.48,136.8,7.01875,3.096,68.59,0.7243,132.972
+2644289,"Beans, kidney, dark red, canned, sodium added, sugar added, drained and rinsed",Legumes and Legume Products,56.94,21.03,0.273,1.439,29.31,0.3285,104.1,226.9,7.8,1.256,68.82,0.56,123.17082000000002
+2644290,"Beans, kidney, light red, canned, sodium added, sugar added, drained and rinsed",Legumes and Legume Products,60.25,21.44675,0.2713,1.305,25.49,0.3453,93.56,209.4,7.30625,1.299,68.93,0.526,123.51359000000002
+2644291,"Peas, green, sweet, canned, sodium added, sugar added, drained and rinsed",Vegetables and Vegetable Products,28.21,12.707625,0.1233,1.139,21.91,0.2849,77.74,109.2,4.734375,1.153,80.53,0.712,77.79892500000001
+2644292,"Beans, pinto, canned, sodium added, drained and rinsed",Legumes and Legume Products,55.23,19.60025,0.2546,1.284,27.49,0.3168,83.11,209.6,6.69375,1.266,71.33,0.6248,113.59675
+2644293,"Blackeye pea, canned, sodium added, drained and rinsed",Legumes and Legume Products,27.78,19.1659,0.2846,1.084,27.26,0.2224,83.03,138.1,6.925,1.296,71.62,0.655,112.88248300000001
+2644294,"Beans, great northern, canned, sodium added, drained and rinsed",Legumes and Legume Products,67.16,19.32875,0.2558,1.382,29.3,0.4628,88.61,213.1,7.03125,1.266,71.16,0.6349,113.66287
+2646168,"Pork, loin, boneless, raw",Pork Products,4.111,0.0,0.0382,0.4519,21.96,0.0,196.8,361.2,21.11875,9.469,68.82,1.57,175.58744249999998
+2646169,"Pork, loin, tenderloin, boneless, raw",Pork Products,4.528,0.0,0.07724,0.9293,24.66,0.002588,217.4,397.4,21.58125,3.899,73.93,1.773,127.32091749999998
+2646170,"Chicken, breast, boneless, skinless, raw",Poultry Products,3.939,0.0,0.003638,0.3543,26.2,0.0,214.9,330.1,22.525,1.934,74.78,0.6545,113.62642999999997
+2646171,"Chicken, thigh, boneless, skinless, raw",Poultry Products,5.65,0.0,0.04235,0.6018,21.8,0.0,178.3,271.8,18.6125,7.916,72.92,1.348,150.87769500000002
+2646172,"Beef, ribeye, steak, boneless, choice, raw",Beef Products,4.173,0.0,0.04263,1.641,16.68,0.0,149.7,288.0,18.74375,20.04,60.63,4.063,260.7966125
+2646173,"Beef, round, top round, boneless, choice, raw",Beef Products,4.07,0.852,0.05515,1.901,22.08,0.002875,192.3,351.5,21.475,5.703,70.88,3.778,146.43655
+2646174,"Beef, chuck, roast, boneless, choice, raw",Beef Products,4.576,0.0,0.05405,2.059,16.99,0.0,151.0,281.1,18.4,17.8,63.43,5.386,239.124
+2646175,"Beef, flank, steak, boneless, choice, raw",Beef Products,3.836,0.0,0.04471,1.834,18.86,0.001688,167.3,331.8,20.13125,9.399,69.78,5.563,170.7394175
+2647437,"Yogurt, plain, nonfat",Dairy and Egg Products,167.4,8.07675,0.0,0.0,15.21,0.0,127.0,210.5,4.22675,0.0875,86.57,0.5989,50.07437
+2647438,"Cheese, monterey jack, solid",Dairy and Egg Products,714.6,1.8979,0.0,0.0,29.6,0.01113,470.9,82.94,22.6171,32.63,39.18,3.785,390.73758999999995
+2647439,"Cheese, pasteurized process cheese food or product, American, singles",Dairy and Egg Products,1498.0,8.1898,0.0,1.303,34.6,0.06518,880.0,211.8,15.5672,23.86,44.78,2.379,307.89586999999995
+2647440,"Cheese, provolone, sliced",Dairy and Egg Products,748.8,2.45312,0.0,0.0,29.5,0.02996,494.1,94.84,23.45288,28.13,42.34,3.89,356.90007199999997
+2647441,"Cheese, oaxaca, solid",Dairy and Egg Products,532.3,2.40202,0.0,0.0,21.58,0.02061,380.4,80.73,22.14498,22.1,49.8,3.506,298.113882
+2647442,"Cheese, queso fresco, solid",Dairy and Egg Products,601.8,2.9572,0.0,0.0,27.64,0.0,389.8,126.4,18.8848,23.36,51.38,2.908,297.41686
+2647443,"Cheese, cotija, solid",Dairy and Egg Products,699.6,2.72432,0.0,0.0,29.9,0.01704,485.5,116.7,23.83568,27.24,40.0,3.597,351.76107199999996
+2684440,"Fish, salmon, sockeye, wild caught, raw",Finfish and Shellfish Products,14.84,0.0,0.0616,0.4024,26.15,0.0,226.3,329.7,22.3,4.936,72.51,0.4246,139.74372
+2684441,"Fish, salmon, Atlantic, farm raised, raw",Finfish and Shellfish Products,9.423,0.0,0.02469,0.2588,25.39,0.0,230.3,378.2,20.31875,13.11,65.84,0.3394,205.0132625
+2684442,"Fish, tilapia, farm raised, raw",Finfish and Shellfish Products,8.628,0.0,0.0,0.0,24.28,0.005325,159.4,342.4,19.0,2.479,78.28,0.2995,103.49058
+2684443,"Crustaceans, shrimp, farm raised, raw",Finfish and Shellfish Products,64.63,0.48495,0.2084,0.5223,22.53,0.02866,190.6,145.9,15.56875,0.8013,81.28,0.9368,75.699433
+2684444,"Fish, cod, Atlantic, wild caught, raw",Finfish and Shellfish Products,6.59,0.0,0.003963,0.065,17.98,0.0,224.1,245.1,16.06875,0.6675,82.86,0.3051,74.6344125
+2684445,"Fish, catfish, farm raised, raw",Finfish and Shellfish Products,7.796,0.0,0.0,0.0,20.63,0.00165,166.2,292.3,16.46875,7.308,75.89,0.4749,136.2397225
+2684446,"Crustaceans, crab, blue swimming, lump, pasteurized, refrigerated",Finfish and Shellfish Products,110.9,0.0,1.088,0.6319,43.08,0.1478,278.5,234.8,18.65,0.8075,78.88,3.478,86.91914999999997
+2685568,"Squash, summer, green, zucchini, includes skin, raw",Vegetables and Vegetable Products,20.85,3.27,0.06384,0.1945,15.29,0.1489,32.9,225.8,0.984375,0.205,95.01,0.2605,15.791625
+2685569,"Squash, summer, yellow, includes skin, raw",Vegetables and Vegetable Products,22.69,4.39,0.06078,0.1369,16.84,0.2398,30.74,220.5,0.890625,0.135,94.05,0.203,18.975375
+2685570,"Squash, winter, butternut, raw",Vegetables and Vegetable Products,21.74,10.50745,0.0733,0.2129,14.95,0.07538,26.53,329.1,1.14875,0.1675,87.32,0.193,41.716521500000006
+2685571,"Squash, winter, acorn, raw",Vegetables and Vegetable Products,24.82,10.48,0.08685,0.3078,23.75,0.1871,42.04,332.1,1.25,0.1825,87.22,0.2935,41.991125
+2685572,"Cabbage, bok choy, raw",Vegetables and Vegetable Products,61.93,3.51495,0.02758,0.4388,13.64,0.1962,30.51,227.8,1.02375,0.2338,94.54,0.2738,17.003227499999998
+2685573,"Cauliflower, raw",Vegetables and Vegetable Products,20.35,4.723075,0.02423,0.3338,14.2,0.141,39.69,274.4,1.640625,0.2375,92.72,0.2344,22.85237775
+2685574,"Collards, raw",Vegetables and Vegetable Products,276.4,7.02225,0.1112,0.7505,49.51,0.8716,45.01,409.8,2.96875,0.77,87.51,0.4594,38.75808249999999
+2685575,"Brussels sprouts, raw",Vegetables and Vegetable Products,38.64,9.615625,0.03843,0.7305,25.0,0.24,78.54,476.8,3.984375,0.565,84.62,0.3663,48.77870624999999
+2685576,"Beets, raw",Vegetables and Vegetable Products,13.82,8.787,0.1606,0.4281,21.01,0.2571,33.65,341.5,1.6875,0.3025,88.16,0.3104,40.965255
+2685577,"Eggplant, raw",Vegetables and Vegetable Products,11.06,5.399325,0.06078,0.0,13.54,0.1065,22.75,222.1,0.851875,0.12,93.11,0.1189,22.35856525
+2685578,"Tomatoes, whole, canned, solids and liquids, with salt added",Vegetables and Vegetable Products,19.83,4.2874,0.05938,0.9291,10.75,0.07515,17.31,202.9,0.8675,0.2063,93.93,0.1198,19.149449
+2685579,"Tomato, sauce, canned, with salt added",Vegetables and Vegetable Products,17.1,6.331625,0.08933,1.107,18.73,0.1314,29.2,355.5,1.351875,0.3825,90.21,0.183,29.10400125
+2685580,"Tomato, paste, canned, without salt added",Vegetables and Vegetable Products,36.85,20.188125,0.295,3.185,49.61,0.3315,91.16,971.6,4.234375,0.7325,71.93,0.5113,88.53450624999998
+2685581,"Tomatoes, crushed, canned",Vegetables and Vegetable Products,19.2,7.137,0.1043,2.268,18.64,0.1529,32.91,345.6,1.4375,0.3975,89.94,0.2014,32.31366499999999
+2685582,"Tomato, puree, canned",Vegetables and Vegetable Products,17.64,8.036875,0.1227,1.237,19.33,0.1396,34.14,416.4,1.578125,0.265,89.11,0.2084,34.760318749999996
+2710815,"Apricot, with skin, raw",Fruits and Fruit Juices,11.59,10.23875,0.05614,0.1634,8.883,0.05361,22.51,231.4,0.96125,0.405,87.88,0.1483,43.47915
+2710816,"Melons, honeydew, raw",Fruits and Fruit Juices,6.579,8.14995,0.009075,0.0,9.504,0.03545,11.74,208.9,0.53125,0.2163,90.59,0.05999,32.935251
+2710817,"Plantains, ripe, raw",Fruits and Fruit Juices,3.825,30.95215,0.1002,0.3192,33.93,0.2048,30.12,395.6,1.15625,0.8933,66.06,0.1467,122.78966100000001
+2710818,"Plantains, underripe, raw",Fruits and Fruit Juices,4.832,33.587325,0.1094,0.3342,29.47,0.1532,27.9,406.3,1.229375,0.685,63.59,0.185,144.50803225
+2710819,"Chia seeds, dry, raw",Cereal Grains and Pasta,595.4,38.273,1.566,6.043,326.3,7.558,691.3,642.1,17.013,32.89,7.451,5.556,490.09551999999996
+2710820,"Bulgur, dry, raw",Cereal Grains and Pasta,34.11,75.88175,0.3774,2.625,118.9,2.636,312.1,358.3,11.75625,2.421,8.485,2.149,349.3017225
+2710821,"Wild rice, dry, raw",Cereal Grains and Pasta,7.973,75.6695,0.487,1.53,108.5,1.315,354.9,298.8,12.7875,1.704,8.428,5.845,358.55262999999997
+2710822,"Arugula, baby, raw",Vegetables and Vegetable Products,203.7,5.36825,0.08273,1.393,42.65,0.514,51.19,406.8,1.64875,0.325,90.94,0.3483,25.907852499999997
+2710823,"Asparagus, green, raw",Vegetables and Vegetable Products,20.58,5.1012,0.1315,0.4436,13.78,0.1455,53.9,277.5,1.4375,0.2163,92.57,0.5955,23.529215
+2710824,"Avocado, Hass, peeled, raw",Fruits and Fruit Juices,14.46,8.3235,0.2849,0.6133,32.8,0.1966,42.38,576.4,1.8125,20.31,67.0,0.4596,206.04929999999996
+2710825,"Rice, black, unenriched, raw",Cereal Grains and Pasta,14.4,77.18825,0.2095,1.116,113.4,3.906,306.7,255.6,7.56875,3.438,10.46,1.716,360.53871
+2710826,"Corn, sweet, yellow and white kernels,  fresh, raw",Vegetables and Vegetable Products,0.6563,14.689625,0.0563,0.3875,25.76,0.1898,75.46,237.0,2.789375,1.626,80.25,0.5564,72.85765624999999
+2710827,"Einkorn, grain, dry, raw",Cereal Grains and Pasta,41.41,68.65381,0.5488,3.69,140.4,4.203,435.8,431.8,15.11719,3.811,10.53,5.231,345.68018390000003
+2710828,"Farro, pearled, dry, raw",Cereal Grains and Pasta,25.94,72.13156,0.4703,3.195,118.8,2.595,367.5,385.4,12.63944,3.103,10.47,3.968,344.0049964
+2710829,"Fonio, grain, dry, raw",Cereal Grains and Pasta,11.65,81.30525,0.3603,2.663,39.1,0.4183,93.24,43.79,7.16875,1.693,9.373,1.849,376.89110250000004
+2710830,"Khorasan, grain, dry, raw",Cereal Grains and Pasta,24.08,71.79427,0.5939,3.874,130.1,3.26,370.8,450.5,14.75573,2.8,8.901,4.46,347.79141129999994
+2710831,"Kiwifruit (kiwi), green, peeled, raw",Fruits and Fruit Juices,24.38,13.818075,0.1283,0.03663,14.79,0.0683,27.61,301.5,1.008125,0.64,83.83,0.4547,58.48917000000001
+2710832,"Mandarin, seedless, peeled, raw",Fruits and Fruit Juices,43.96,13.421825,0.04271,0.0,12.59,0.05009,19.71,167.2,1.039375,0.4575,84.65,0.06869,55.640145000000004
+2710833,"Mango, Tommy Atkins, peeled, raw",Fruits and Fruit Juices,12.4,15.265,0.0907,0.0,10.26,0.1061,16.45,165.0,0.5625,0.5725,83.2,0.0664,61.635825
+2710834,"Mango, Ataulfo, peeled, raw",Fruits and Fruit Juices,10.02,17.3962,0.1031,0.0,10.57,0.1045,17.74,204.4,0.6875,0.6813,80.79,0.102,70.638801
+2710835,"Corn flour, masa harina, white or yellow, dry, raw",Cereal Grains and Pasta,111.6,76.6895,0.1295,1.698,93.3,0.4133,241.1,276.6,7.5625,4.34,10.08,1.617,366.03011000000004
+2710836,"Pear, Anjou, green, with skin, raw",Fruits and Fruit Juices,9.986,14.7674,0.08145,0.0,6.494,0.05434,12.3,122.5,0.3125,0.3713,84.27,0.1074,57.320421
+2710837,"Plum, black, with skin, raw",Fruits and Fruit Juices,4.031,13.455575,0.05413,0.0,6.615,0.04039,18.63,186.3,0.578125,0.2825,84.94,0.04518,52.747095
+2710838,"Rice, red, unenriched, dry, raw",Cereal Grains and Pasta,9.224,76.1545,0.269,1.198,125.5,2.629,313.9,245.1,8.5625,3.44,10.51,2.563,359.99995
+2710839,"Sorghum bran, white, unenriched, dry, raw",Cereal Grains and Pasta,61.66,68.69525,0.8408,14.21,273.5,3.806,517.1,851.5,11.16875,9.259,7.424,4.4,364.50325
+2710840,"Sorghum flour, white, pearled, unenriched, dry, raw",Cereal Grains and Pasta,7.894,73.5065,0.2138,2.225,107.0,1.178,245.8,273.9,10.2125,3.238,11.87,1.318,349.558015
+2710841,"Sorghum grain, white, pearled, unenriched, dry, raw",Cereal Grains and Pasta,7.45,74.872,0.2084,2.036,108.9,1.178,243.4,273.9,10.25,3.265,10.45,1.276,338.38971000000004
+2710842,"Sorghum, whole grain, white, dry, raw",Cereal Grains and Pasta,14.93,73.57375,0.2995,3.895,136.0,1.545,294.1,367.1,10.08125,4.219,10.62,1.769,340.98918000000003
+2710843,"Plantains, overripe, raw",Fruits and Fruit Juices,3.9,29.191425,0.1028,0.3148,31.73,0.2111,28.92,408.2,1.166875,0.99,67.71,0.1492,117.29612999999999
+2727566,"Chicken, drumstick, meat and skin, raw",Poultry Products,8.285,-0.47505,0.04426,0.6658,18.55,0.00655,152.5,244.1,18.35625,5.94,75.29,1.7,130.121544
+2727567,"Chicken, thigh, meat and skin, raw",Poultry Products,5.726,-0.17255,0.03935,0.5861,18.51,0.0032,153.6,246.0,17.10625,13.35,68.87,1.2,192.79291899999998
+2727568,"Chicken, wing, meat and skin, raw",Poultry Products,13.55,-0.45875,0.01053,0.5111,16.53,0.003188,132.8,194.0,18.40625,10.64,70.66,1.179,172.792125
+2727569,"Chicken, breast, meat and skin, raw",Poultry Products,6.898,-0.42825,0.00415,0.3535,25.4,0.002067,203.6,332.5,21.40625,4.777,73.2,0.6245,132.8359
+2727570,"Lamb, ground, raw","Lamb, Veal, and Game Products",6.575,-0.2508,0.08482,1.643,17.48,0.004283,155.8,272.1,17.4625,18.64,63.29,3.13,241.727079
+2727571,"Bison, ground, raw","Lamb, Veal, and Game Products",6.827,-0.14955,0.07822,2.168,18.47,0.002067,165.6,301.1,19.88125,8.88,70.44,3.763,164.411779
+2727572,"Beef, short loin (NY strip steak), raw",Beef Products,5.043,0.2212,0.04304,1.608,19.5,0.001563,171.4,323.0,21.325,11.54,65.95,3.284,196.00459399999997
+2727573,"Beef, tenderloin steak, raw",Beef Products,4.089,0.18025,0.1046,2.53,21.98,0.004775,189.7,344.7,21.09375,6.456,71.21,3.225,149.00099999999998
+2727574,"Beef, top sirloin steak, raw",Beef Products,3.701,0.218,0.07023,2.224,22.08,0.001563,193.1,349.4,21.975,5.708,71.01,3.453,146.16307
+2727575,"Pork, chop, center cut, raw",Pork Products,4.124,-0.5625,0.0335,0.4213,23.44,0.001575,202.3,366.5,22.8125,5.475,71.18,1.325,144.617
+2727576,"Pork, belly, with skin, raw",Pork Products,4.205,-0.705,0.0331,0.3817,12.18,0.002083,113.9,207.9,15.2,35.83,49.02,1.067,385.36224999999996
