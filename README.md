@@ -26,6 +26,40 @@ The dataset comes from [FoodData Central](https://fdc.nal.usda.gov/download-data
 - `models/` — trained models ans checkpoints.
 - `README.md` — project overview and documentation.  
 
+## Getting Started
+
+### Dependencies
+
+```
+pandas >= 1.3.0
+numpy >= 1.21.0
+scikit-learn >= 1.0.0
+matplotlib >= 3.4.0
+joblib >= 1.4.0
+seaborn >= 0.13.0
+scipy >= 1.13.0
+```
+
+### Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/viniciusagsa/dsnd-project-01
+cd dsnd-project-01
+```
+
+2. Install Python packages:
+```bash
+pip install pandas numpy scikit-learn matplotlib joblib seaborn scipy
+```
+
+3. Launch notebook:
+```bash
+jupyter notebook starter/data_analysis.ipynb
+```
+
+---
+
 ## Results and metrics
 
 - Model performance metrics (e.g., MSE, RMSE, R²) are reported in `data_analysis.ipynb`.  
@@ -35,3 +69,15 @@ The dataset comes from [FoodData Central](https://fdc.nal.usda.gov/download-data
 ## Final comments
 
 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/viniciusagsa/) or through my [GitHub profile](https://github.com/viniciusagsa) if you’d like to discuss the project or collaborate on similar topics.
+
+### Acknowledgements
+
+I would like to express my gratitude to all the open-source developers and data providers who made this project possible.  
+Special thanks to the contributors of Python libraries such as Pandas, NumPy, Matplotlib, and Scikit-learn, which were fundamental to the implementation of this analysis.
+
+- Data Source: [FoodData Central](https://fdc.nal.usda.gov/download-datasets)
+- This project was inspired by the [Udacity Data Science Nanodegree Program](https://www.udacity.com/).
+
+### License
+
+[License](LICENSE.txt)
