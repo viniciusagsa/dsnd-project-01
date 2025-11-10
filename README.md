@@ -80,4 +80,4 @@ Special thanks to the contributors of Python libraries such as Pandas, NumPy, Ma
 
 ### License
 
-[License](LICENSE.txt)
+[License](LICENSE)
